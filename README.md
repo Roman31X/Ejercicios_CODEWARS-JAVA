@@ -12,8 +12,7 @@ En este repositorio encontrara ejercicios seleccionados de la plataforma web de 
 + __2Kyu__
 + __1Kyu : NIVEL DIOS__
 
-<div>
-<center>
+<div align="center">
 <h1>SOLO TU PONES EL LIMITE</h1>
 <p><b>Hay que entrenar - Hay que aprender<br>
 Hay que comer - Hay que descansar<br>
@@ -21,5 +20,4 @@ y tambien hay que jugar</b></p>
 <div>
 <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Entrenamiento.png" width=400 height=400/>
 </div>
-</center>
 </div>
