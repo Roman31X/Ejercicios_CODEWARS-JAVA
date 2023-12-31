@@ -19,7 +19,7 @@ En este repositorio encontrara ejercicios seleccionados de la plataforma web de 
 Hay que comer - Hay que descansar<br>
 y tambien hay que jugar</b></p>
 <div>
-<img src="" width=400 height=400/>
+<img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Entrenamiento.png" width=400 height=400/>
 </div>
 </center>
 </div>
