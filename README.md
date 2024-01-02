@@ -4,7 +4,7 @@ En este repositorio encontrara ejercicios seleccionados de la plataforma web de 
 ## NIVELES DE DIFICULTAD
 + __8Kyu : NIVEL MORTAL__
 + __7Kyu__
-    - <a href="https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/java">Verificar un cuadradoo de cuadrados</a> - <a href="">Solución</a>
+    - <a href="https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/java">Verificar un cuadradoo de cuadrados</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CuadradoPerfecto">Solución</a>
 + __6Kyu__
 + __5Kyu__
 + __4Kyu__
