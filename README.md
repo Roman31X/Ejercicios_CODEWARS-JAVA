@@ -4,7 +4,7 @@ En este repositorio encontrara ejercicios seleccionados de la plataforma web de 
 ## NIVELES DE DIFICULTAD
 + __8Kyu : NIVEL MORTAL__
     - <a href="https://www.codewars.com/kata/57356c55867b9b7a60000bd7/train/java">Operaciones Matemáticas Básicas</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/OperacionesBasicasMatematicas">Solución</a>
-    - <a href="https://www.codewars.com/kata/56b1f01c247c01db92000076/solutions/java">Doble Carácter de una cadena</a> - <a href="">Solución</a>
+    - <a href="https://www.codewars.com/kata/56b1f01c247c01db92000076/train/java">Doble Carácter de una cadena</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/DobleCarcter">Solución</a>
     
 + __7Kyu__
     - <a href="https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/java">Verificar un cuadrado de cuadrados</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CuadradoPerfecto">Solución</a>
