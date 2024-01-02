@@ -3,9 +3,10 @@ En este repositorio encontrara ejercicios seleccionados de la plataforma web de 
 
 ## NIVELES DE DIFICULTAD
 + __8Kyu : NIVEL MORTAL__
+    - <a href="https://www.codewars.com/kata/57356c55867b9b7a60000bd7/train/java">Operaciones Matemáticas Básicas</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/OperacionesBasicasMatematicas">Solución</a>
+    
 + __7Kyu__
     - <a href="https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/java">Verificar un cuadrado de cuadrados</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CuadradoPerfecto">Solución</a>
-    - <a href="https://www.codewars.com/kata/57356c55867b9b7a60000bd7/train/java">Operaciones Matemáticas Básicas</a> - <a href="">Solución</a>
      
 + __6Kyu__
 + __5Kyu__
