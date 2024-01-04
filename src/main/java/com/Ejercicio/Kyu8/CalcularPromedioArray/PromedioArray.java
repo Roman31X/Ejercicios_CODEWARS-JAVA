@@ -6,6 +6,6 @@ public class PromedioArray {
         for (int i = 0; i < array.length; i++) {
             acumulador+=array[i];
         }
-        return acumulador/array.length;
+        return (double)acumulador/array.length;
     }
 }
