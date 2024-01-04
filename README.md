@@ -7,6 +7,7 @@ En este repositorio encontrara ejercicios seleccionados de la plataforma web de 
     - <a href="https://www.codewars.com/kata/56b1f01c247c01db92000076/train/java">Doble Carácter de una cadena</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/DobleCarcter">Solución</a>
     - <a href="https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b/train/java">Años del gato, Años del perro</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/A%C3%B1os_Gatos_Perros">Solución</a>
     - <a href="https://www.codewars.com/kata/5168bb5dfe9a00b126000018/train/java">Cuerdas invertidas</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/CuerdasInvertidas">Solución</a>
+    - <a href="https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/train/java">Eliminar el primero y ultimo carácter</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/RemoverPrimeroyUltimoCaracter">Solución</a>
     
 + __7Kyu__
     - <a href="https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/java">Verificar un cuadrado de cuadrados</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CuadradoPerfecto">Solución</a>
