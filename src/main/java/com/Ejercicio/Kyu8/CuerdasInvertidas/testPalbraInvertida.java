@@ -1,6 +1,6 @@
-package com.Ejercicio.Kyu8.PalabraInvertida;
+package com.Ejercicio.Kyu8.CuerdasInvertidas;
 
-import static com.Ejercicio.Kyu8.PalabraInvertida.PalabraInvertida.invertirPalabra;
+import static com.Ejercicio.Kyu8.CuerdasInvertidas.PalabraInvertida.invertirPalabra;
 
 public class testPalbraInvertida {
     public static void main(String[] args) {
