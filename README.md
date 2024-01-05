@@ -9,6 +9,7 @@ En este repositorio encontrara ejercicios seleccionados de la plataforma web de 
     - <a href="https://www.codewars.com/kata/5168bb5dfe9a00b126000018/train/java">Cuerdas invertidas</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/CuerdasInvertidas">Solución</a>
     - <a href="https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/train/java">Eliminar el primero y ultimo carácter</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/RemoverPrimeroyUltimoCaracter">Solución</a>
     - <a href="https://www.codewars.com/kata/57a2013acf1fa5bfc4000921/train/java">Calcular Promedio Array</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/CalcularPromedioArray">Solución</a>
+    - <a href="https://www.codewars.com/kata/57cc975ed542d3148f00015b/train/java">Calcular Promedio Array</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/SoloNecesitoUno">Solución</a>
     
 + __7Kyu__
     - <a href="https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/java">Verificar un cuadrado de cuadrados</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CuadradoPerfecto">Solución</a>
