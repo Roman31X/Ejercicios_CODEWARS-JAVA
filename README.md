@@ -11,6 +11,7 @@ En este repositorio encontrara ejercicios seleccionados de la plataforma web de 
     - <a href="https://www.codewars.com/kata/57a2013acf1fa5bfc4000921/train/java">Calcular Promedio Array</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/CalcularPromedioArray">Solución</a>
     - <a href="https://www.codewars.com/kata/57cc975ed542d3148f00015b/train/java">Calcular Promedio Array</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/SoloNecesitoUno">Solución</a>
     - <a href="https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/train/java">Palabra mas corta</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/PlabraMasCorta">Solución</a>
+    - <a href="https://www.codewars.com/kata/544675c6f971f7399a000e79/train/java">Convierta una cadena en un numero</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/ConvertirCadenaANumero">Solución</a>
     
 + __7Kyu__
     - <a href="https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/java">Verificar un cuadrado de cuadrados</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CuadradoPerfecto">Solución</a>
