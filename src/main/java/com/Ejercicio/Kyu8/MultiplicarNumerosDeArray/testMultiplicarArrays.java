@@ -1,6 +1,6 @@
-package com.Ejercicio.Kyu8.MultiplicarNUmerosDeArray;
+package com.Ejercicio.Kyu8.MultiplicarNumerosDeArray;
 
-import static com.Ejercicio.Kyu8.MultiplicarNUmerosDeArray.MultiplicarArrays.multiplicarArrays;
+import static com.Ejercicio.Kyu8.MultiplicarNumerosDeArray.MultiplicarArrays.multiplicarArrays;
 
 public class testMultiplicarArrays {
     public static void main(String[] args) {

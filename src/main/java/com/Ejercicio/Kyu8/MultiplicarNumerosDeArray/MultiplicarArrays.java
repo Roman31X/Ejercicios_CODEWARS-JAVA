@@ -1,4 +1,4 @@
-package com.Ejercicio.Kyu8.MultiplicarNUmerosDeArray;
+package com.Ejercicio.Kyu8.MultiplicarNumerosDeArray;
 
 public class MultiplicarArrays {
     public static int multiplicarArrays(int[] x){
