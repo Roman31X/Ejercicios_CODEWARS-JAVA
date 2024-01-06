@@ -12,7 +12,7 @@ En este repositorio encontrara ejercicios seleccionados de la plataforma web de 
     - <a href="https://www.codewars.com/kata/57cc975ed542d3148f00015b/train/java">Calcular Promedio Array</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/SoloNecesitoUno">Solución</a>
     - <a href="https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/train/java">Palabra mas corta</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/PlabraMasCorta">Solución</a>
     - <a href="https://www.codewars.com/kata/544675c6f971f7399a000e79/train/java">Convierta una cadena en un numero</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/ConvertirCadenaANumero">Solución</a>
-    - <a href="https://www.codewars.com/kata/5513795bd3fafb56c200049e/train/java"></a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/ContarporX">Solución</a>
+    - <a href="https://www.codewars.com/kata/5513795bd3fafb56c200049e/train/java">Contar por X</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/ContarporX">Solución</a>
     - <a href="https://www.codewars.com/kata/57f780909f7e8e3183000078/train/java">Multiplicación números de Arrays</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/MultiplicarNUmerosDeArray">Solución</a>
     
 + __7Kyu__
