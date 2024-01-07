@@ -14,6 +14,7 @@ En este repositorio encontrara ejercicios seleccionados de la plataforma web de 
     - <a href="https://www.codewars.com/kata/544675c6f971f7399a000e79/train/java">Convierta una cadena en un numero</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/ConvertirCadenaANumero">Solución</a>
     - <a href="https://www.codewars.com/kata/5513795bd3fafb56c200049e/train/java">Contar por X</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/ContarporX">Solución</a>
     - <a href="https://www.codewars.com/kata/57f780909f7e8e3183000078/train/java">Multiplicación números de Arrays</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/MultiplicarNUmerosDeArray">Solución</a>
+    - <a href="">Suma de cuadrado Arrays</a> - <a href="">Solución</a>
     
 + __7Kyu__
     - <a href="https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/java">Verificar un cuadrado de cuadrados</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CuadradoPerfecto">Solución</a>
