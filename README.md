@@ -22,6 +22,7 @@ En este repositorio encontrara ejercicios seleccionados de la plataforma web de 
     - <a href="https://www.codewars.com/kata/55fd2d567d94ac3bc9000064/train/java">Suma de números impares</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/SumaNumeroImpares">Solución</a>
     - <a href="https://www.codewars.com/kata/5949481f86420f59480000e7/train/java">¿Par o Impar? suma arrays</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/Par_o_Impar">Solución</a>
     - <a href="https://www.codewars.com/kata/578553c3a1b8d5c40300037c/train/java">Unos y Zeros Binarios</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/UnosyCeros">Solución</a>
+    - <a href=""></a> - <a href="">Solución</a>
       
 + __6Kyu__
 + __5Kyu__
