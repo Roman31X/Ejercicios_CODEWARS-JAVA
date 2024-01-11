@@ -17,6 +17,7 @@ En este repositorio encontrara ejercicios seleccionados de la plataforma web de 
     - <a href="https://www.codewars.com/kata/515e271a311df0350d00000f/train/java">Suma de cuadrado Arrays</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/SumaDeCuadrados">Solución</a>
     - <a href="https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7/train/java">Hacer Mayúsculas</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/ConvertirAMayusculas">Solución</a>
     - <a href="https://www.codewars.com/kata/57a429e253ba3381850000fb/train/java">Calcular el IMC</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/CalcularIMC">Solución</a>
+    - <a href=""></a> - <a href="">Solución</a>
     
 + __7Kyu__
     - <a href="https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/java">Verificar un cuadrado de cuadrados</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CuadradoPerfecto">Solución</a>
