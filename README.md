@@ -19,7 +19,7 @@ En este repositorio encontrara ejercicios seleccionados de la plataforma web de 
     - <a href="https://www.codewars.com/kata/57a429e253ba3381850000fb/train/java">Calcular el IMC</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/CalcularIMC">Solución</a>
     - <a href="https://www.codewars.com/kata/5761a717780f8950ce001473/train/java">¿Qué edad tendré en 2099?</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/CalcularEdad2099">Solución</a>
     - <a href="https://www.codewars.com/kata/55a2d7ebe362935a210000b2/train/java">Encuentra el número entero más pequeño en la matriz</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/EnteroMasPeque%C3%B1oArray">Solución</a>
-    - <a href="">Suma de Positivos</a> - <a href="">Solución</a>
+    - <a href="https://www.codewars.com/kata/5715eaedb436cf5606000381/train/java">Suma de Positivos</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/SumaPositivosArray">Solución</a>
     
 + __7Kyu__
     - <a href="https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/java">Verificar un cuadrado de cuadrados</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CuadradoPerfecto">Solución</a>
