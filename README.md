@@ -31,7 +31,7 @@ En este repositorio encontrara ejercicios seleccionados de la plataforma web de 
     - <a href="https://www.codewars.com/kata/55f8a9c06c018a0d6e000132/train/java">Regex valida el código PIN</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/RegexValidadcionCodigoPIN">Solución</a>
       
 + __6Kyu__
-    - <a href="">¿A quien le gusta? LIKE</a> - <a href="">Solución</a>
+    - <a href="https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/java">¿A quien le gusta? LIKE</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/QuienLeGustaLike">Solución</a>
    
 + __5Kyu__
 + __4Kyu__
