@@ -28,6 +28,7 @@ En este repositorio encontrara ejercicios seleccionados de la plataforma web de 
     - <a href="https://www.codewars.com/kata/578553c3a1b8d5c40300037c/train/java">Unos y Zeros Binarios</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/UnosyCeros">Solución</a>
     - <a href="https://www.codewars.com/kata/544a54fd18b8e06d240005c0/train/java">Valor más pequeño de un Arrays</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/ValorMasPeque%C3%B1oArrays">Solución</a>
     - <a href="https://www.codewars.com/kata/57ee31c5e77282c24d000024/train/java">La miseria de Pablo</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/LaMiseriaDePablo">Solución</a>
+    - <a href="https://www.codewars.com/kata/55f8a9c06c018a0d6e000132/train/java">Regex valida el código PIN</a> - <a href="">Solución</a>
       
 + __6Kyu__
 + __5Kyu__
