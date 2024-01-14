@@ -21,6 +21,7 @@ En este repositorio encontrara ejercicios seleccionados de la plataforma web de 
     - <a href="https://www.codewars.com/kata/55a2d7ebe362935a210000b2/train/java">Encuentra el número entero más pequeño en la matriz</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/EnteroMasPeque%C3%B1oArray">Solución</a>
     - <a href="https://www.codewars.com/kata/5715eaedb436cf5606000381/train/java">Suma de Positivos</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/SumaPositivosArray">Solución</a>
     - <a href="https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad/train/java">Invertir valores</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/InvertirValores">Solución</a>
+    - <a href="https://www.codewars.com/kata/5861d28f124b35723e00005e/train/java">¿Lo Lograrás? Distancia - Galones y Millas</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/GalonesyMillas">Solución</a>
     
 + __7Kyu__
     - <a href="https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/java">Verificar un cuadrado de cuadrados</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CuadradoPerfecto">Solución</a>
