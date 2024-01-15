@@ -14,7 +14,9 @@ public class MasLetrasPalabra {
                         nuevaPalabra+=mayuscula.toUpperCase();
                         mayuscula ="";
                     }else{
-                        nuevaPalabra+=s.charAt(i);
+                        mayuscula+=s.charAt(i);
+                        nuevaPalabra+=mayuscula.toLowerCase();
+                        mayuscula ="";
                     }
                 }
                 if(i < (s.length()-1)){
