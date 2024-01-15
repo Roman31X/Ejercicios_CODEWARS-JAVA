@@ -31,7 +31,7 @@ En este repositorio encontrara ejercicios seleccionados de la plataforma web de 
     - <a href="https://www.codewars.com/kata/544a54fd18b8e06d240005c0/train/java">Valor más pequeño de un Arrays</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/ValorMasPeque%C3%B1oArrays">Solución</a>
     - <a href="https://www.codewars.com/kata/57ee31c5e77282c24d000024/train/java">La miseria de Pablo</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/LaMiseriaDePablo">Solución</a>
     - <a href="https://www.codewars.com/kata/55f8a9c06c018a0d6e000132/train/java">Regex valida el código PIN</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/RegexValidadcionCodigoPIN">Solución</a>
-    - <a href="">Mas Letras Palabra</a> - <a href="">Solución</a>
+    - <a href="https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/java">Mas Letras Palabra</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/MasLetras">Solución</a>
       
 + __6Kyu__
     - <a href="https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/java">¿A quien le gusta? LIKE</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/QuienLeGustaLike">Solución</a>
