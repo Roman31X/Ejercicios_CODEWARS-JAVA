@@ -23,6 +23,7 @@ En este repositorio encontrara ejercicios seleccionados de la plataforma web de 
     - <a href="https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad/train/java">Invertir valores</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/InvertirValores">Solución</a>
     - <a href="https://www.codewars.com/kata/5861d28f124b35723e00005e/train/java">¿Lo Lograrás? Distancia - Galones y Millas</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/GalonesyMillas">Solución</a>
     - <a href="https://www.codewars.com/kata/53ee5429ba190077850011d4/train/java">No se puede codificar bajo presión N° 1</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/CodificarBajoPresion">Solución</a>
+    - <a href="">¡Piedra - Papel o Tijeras!</a> - <a href="">Solución</a>
     
 + __7Kyu__
     - <a href="https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/java">Verificar un cuadrado de cuadrados</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CuadradoPerfecto">Solución</a>
