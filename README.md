@@ -38,7 +38,7 @@ En este repositorio encontrara ejercicios seleccionados de la plataforma web de 
       
 + __6Kyu__
     - <a href="https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/java">¿A quien le gusta? LIKE</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/QuienLeGustaLike">Solución</a>
-    - <a href="">Romper camelCase</a> - <a href="">Solución</a>
+    - <a href="https://www.codewars.com/kata/5208f99aee097e6552000148/train/java">Romper camelCase</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/RomaperCamelCase">Solución</a>
    
 + __5Kyu__
 + __4Kyu__
