@@ -35,7 +35,7 @@ En este repositorio encontrara ejercicios seleccionados de la plataforma web de 
     - <a href="https://www.codewars.com/kata/55f8a9c06c018a0d6e000132/train/java">Regex valida el código PIN</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/RegexValidadcionCodigoPIN">Solución</a>
     - <a href="https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/java">Mas Letras Palabra</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/MasLetras">Solución</a>
     - <a href="https://www.codewars.com/kata/5546ea9bddfc5c0c38000026/train/java">No se puede codificar bajo presión N° 2</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CodifcarBajoPresionN2">Solución</a>
-    - <a href="">Filtrado de Lista</a> - <a href="">Solución</a>
+    - <a href="https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/java">Filtrado de Lista</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/FiltrarLista">Solución</a>
       
 + __6Kyu__
     - <a href="https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/java">¿A quien le gusta? LIKE</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/QuienLeGustaLike">Solución</a>
