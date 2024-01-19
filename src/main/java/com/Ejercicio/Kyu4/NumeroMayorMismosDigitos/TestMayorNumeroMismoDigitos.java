@@ -1,4 +1,4 @@
-package com.Ejercicio.Kyu4.NUmeroMayorMismosDigitos;
+package com.Ejercicio.Kyu4.NumeroMayorMismosDigitos;
 
 import java.util.Scanner;
 
