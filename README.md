@@ -25,6 +25,7 @@ En este repositorio encontrara ejercicios seleccionados de la plataforma web de 
     - <a href="https://www.codewars.com/kata/53ee5429ba190077850011d4/train/java">No se puede codificar bajo presión N° 1</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/CodificarBajoPresion">Solución</a>
     - <a href="https://www.codewars.com/kata/5672a98bdbdd995fad00000f/train/java">¡Piedra - Papel o Tijeras!</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/PiedraPapelTijera">Solución</a>
     - <a href="https://www.codewars.com/kata/54edbc7200b811e956000556/train/java">Contando Ovejas</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/ContadorOvejas">Solución</a>
+    - <a href="https://www.codewars.com/kata/55a70521798b14d4750000a4/train/java">Cadenas de regreso SALUDO</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/CadenasDeRegreso">Solución</a>
     
 + __7Kyu__
     - <a href="https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/java">Verificar un cuadrado de cuadrados</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CuadradoPerfecto">Solución</a>
