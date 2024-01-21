@@ -1,6 +1,6 @@
-package com.Ejercicio.Kyu7.MenorMayorArray;
+package com.Ejercicio.Kyu7.MenorMayorStringNumeros;
 
-import static com.Ejercicio.Kyu7.MenorMayorArray.ObtenerMenorMayor.MayorMenorCadena;
+import static com.Ejercicio.Kyu7.MenorMayorStringNumeros.ObtenerMenorMayor.MayorMenorCadena;
 
 public class TestMayorMenorCadenaCaracter {
     public static void main(String[] args) {

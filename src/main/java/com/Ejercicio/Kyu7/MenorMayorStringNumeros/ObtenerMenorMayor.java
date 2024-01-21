@@ -1,4 +1,4 @@
-package com.Ejercicio.Kyu7.MenorMayorArray;
+package com.Ejercicio.Kyu7.MenorMayorStringNumeros;
 
 import java.util.ArrayList;
 import java.util.List;
