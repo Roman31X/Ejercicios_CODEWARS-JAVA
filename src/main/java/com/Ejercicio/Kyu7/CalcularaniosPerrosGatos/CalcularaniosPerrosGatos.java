@@ -10,26 +10,43 @@ public class CalcularaniosPerrosGatos {
         }else{
             do{
                 if(i == 0){
-                    gato++; perro++; yearCat -= 15; yearDog-= 15;
+                    if(yearCat >= 15){
+                        gato++;yearCat -= 15;
+                    }else{
+                        yearCat = 0;
+                    }
+                    if(yearDog >= 15){
+                        perro++;  yearDog-= 15;
+                    }else{
+                        yearDog = 0;
+                    }
                 }else if (i == 1) {
-                    gato++; perro++; yearCat -= 9; yearDog-= 9;
-                }else if(i >= 2){
+                    if(yearCat >= 9){
+                        gato++;yearCat -= 9;
+                    }else{
+                        yearCat = 0;
+                    }
+                    if(yearDog >= 9){
+                        perro++;  yearDog-= 9;
+                    }else{
+                        yearDog = 0;
+                    }
+                }else{
                     if(yearCat >= 4){
                         gato++;
                         yearCat-= 4;
                     }else{
-                        yearCat=0;
+                        yearCat = 0;
                     }
                     if(yearDog >= 5){
                         perro++;
                         yearDog-= 5;
                     }else{
-                        yearDog=0;
+                        yearDog = 0;
                     }
-                    System.out.println(yearCat+" - "+yearDog);
                 }
                 i++;
-            }while(yearCat == 0 && yearDog == 0);
+            }while(yearCat > 0 || yearDog > 0);
         }
         return new int[]{gato,perro};
     }
