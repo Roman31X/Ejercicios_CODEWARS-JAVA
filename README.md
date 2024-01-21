@@ -41,7 +41,7 @@ En este repositorio encontrara ejercicios seleccionados de la plataforma web de 
     - <a href="https://www.codewars.com/kata/59a8570b570190d313000037/train/java">Suma de números al cubo</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/SumaCubos">Solución</a>
     - <a href="https://www.codewars.com/kata/5417423f9e2e6c2f040002ae/train/java">Digitalizar números</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/Digitalizar">Solución</a>
     - <a href="https://www.codewars.com/kata/554b4ac871d6813a03000035/train/java">Más alto y más bajo</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/MenorMayorStringNumeros">Solución</a>
-    - <a href="">Años del gato, Años del perro</a> - <a href="">Solución</a>
+    - <a href="https://www.codewars.com/kata/5a6d3bd238f80014a2000187/train/java">Años del gato, Años del perro N° 2</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CalcularaniosPerrosGatos">Solución</a>
       
 + __6Kyu__
     - <a href="https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/java">¿A quien le gusta? LIKE</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/QuienLeGustaLike">Solución</a>
