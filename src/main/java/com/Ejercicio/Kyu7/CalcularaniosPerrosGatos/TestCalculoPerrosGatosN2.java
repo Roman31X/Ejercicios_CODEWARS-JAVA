@@ -33,7 +33,7 @@ public class TestCalculoPerrosGatosN2 {
         }
         System.out.println();
         System.out.println("|*****************************************|");
-        int[] pruebaN5 = CalcularGatosPerros(1,23);
+        int[] pruebaN5 = CalcularGatosPerros(58,83);
         System.out.println("Gatos : [58] - Perro : [83] : al lado de Humano es : ");
         for (int edad :pruebaN5) {
             System.out.print("["+edad+"] ");
