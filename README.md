@@ -5,7 +5,7 @@ En este repositorio encontrara ejercicios seleccionados de la plataforma web de 
 + __8Kyu : NIVEL MORTAL__
     - <a href="https://www.codewars.com/kata/57356c55867b9b7a60000bd7/train/java">Operaciones Matemáticas Básicas</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/OperacionesBasicasMatematicas">Solución</a>
     - <a href="https://www.codewars.com/kata/56b1f01c247c01db92000076/train/java">Doble Carácter de una cadena</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/DobleCarcter">Solución</a>
-    - <a href="https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b/train/java">Años del gato, Años del perro</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/A%C3%B1os_Gatos_Perros">Solución</a>
+    - <a href="https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b/train/java">Años del gato, Años del perro N° 1</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/A%C3%B1os_Gatos_Perros">Solución</a>
     - <a href="https://www.codewars.com/kata/5168bb5dfe9a00b126000018/train/java">Cuerdas invertidas</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/CuerdasInvertidas">Solución</a>
     - <a href="https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/train/java">Eliminar el primero y ultimo carácter</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/RemoverPrimeroyUltimoCaracter">Solución</a>
     - <a href="https://www.codewars.com/kata/57a2013acf1fa5bfc4000921/train/java">Calcular Promedio Array</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/CalcularPromedioArray">Solución</a>
@@ -47,6 +47,7 @@ En este repositorio encontrara ejercicios seleccionados de la plataforma web de 
 + __6Kyu__
     - <a href="https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/java">¿A quien le gusta? LIKE</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/QuienLeGustaLike">Solución</a>
     - <a href="https://www.codewars.com/kata/5208f99aee097e6552000148/train/java">Romper camelCase</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/RomaperCamelCase">Solución</a>
+    - <a href="https://www.codewars.com/kata/523f5d21c841566fde000009/train/java">Array quitar números repetidos</a> - <a href="">Solución</a>
    
 + __5Kyu__
 + __4Kyu__
