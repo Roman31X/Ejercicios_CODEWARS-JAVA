@@ -48,6 +48,7 @@ En este repositorio encontrara ejercicios seleccionados de la plataforma web de 
     - <a href="https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/java">¿A quien le gusta? LIKE</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/QuienLeGustaLike">Solución</a>
     - <a href="https://www.codewars.com/kata/5208f99aee097e6552000148/train/java">Romper camelCase</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/RomaperCamelCase">Solución</a>
     - <a href="https://www.codewars.com/kata/523f5d21c841566fde000009/train/java">Array quitar números repetidos</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/QuitarRepetidosArray">Solución</a>
+    - <a href="https://www.codewars.com/kata/514b92a657cdc65150000006/train/java">Múltiplos de 3 y 5</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/MultiplosDe3y5">Solución</a>
    
 + __5Kyu__
 + __4Kyu__
