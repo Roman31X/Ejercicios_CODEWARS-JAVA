@@ -27,6 +27,7 @@ En este repositorio encontrara ejercicios seleccionados de la plataforma web de 
     - <a href="https://www.codewars.com/kata/54edbc7200b811e956000556/train/java">Contando Ovejas</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/ContadorOvejas">Solución</a>
     - <a href="https://www.codewars.com/kata/55a70521798b14d4750000a4/train/java">Cadenas de regreso SALUDO</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/CadenasDeRegreso">Solución</a>
     - <a href="https://www.codewars.com/kata/57e76bc428d6fbc2d500036d/train/java">Convertir una cadena en una matriz</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/ConvertirCadenaMtriz">Solución</a>
+    - <a href="https://www.codewars.com/kata/583710ccaa6717322c000105/train/java">Multiplicación simple Par - Impar</a> - <a href="">Solución</a>
     
 + __7Kyu__
     - <a href="https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/java">Verificar un cuadrado de cuadrados</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CuadradoPerfecto">Solución</a>
