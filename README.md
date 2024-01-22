@@ -30,6 +30,7 @@ En este repositorio encontrara ejercicios seleccionados de la plataforma web de 
     - <a href="https://www.codewars.com/kata/583710ccaa6717322c000105/train/java">Multiplicación simple Par - Impar</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/MultiplicacionSencilla">Solución</a>
     - <a href="https://www.codewars.com/kata/568dcc3c7f12767a62000038/train/java">L1: Establecer alarma</a> - <a href="">Solución</a>
     - <a href="https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145/train/java">Sigue con el aro</a> - <a href="">Solución</a>
+    - <a href="https://www.codewars.com/kata/582cb0224e56e068d800003c/train/java">¡Manténgase hidratado!</a> - <a href="">Solución</a>
     
 + __7Kyu__
     - <a href="https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/java">Verificar un cuadrado de cuadrados</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CuadradoPerfecto">Solución</a>
