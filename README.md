@@ -55,6 +55,7 @@ En este repositorio encontrara ejercicios seleccionados de la plataforma web de 
     - <a href="https://www.codewars.com/kata/514b92a657cdc65150000006/train/java">Múltiplos de 3 y 5</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/MultiplosDe3y5">Solución</a>
     - <a href="https://www.codewars.com/kata/541c8630095125aba6000c00/train/java">Suma de dígitos / Raíz Digital</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/SumaDigitosRaizDigital">Solución</a>
     - <a href="https://www.codewars.com/kata/5287e858c6b5a9678200083c/train/java">¿Mi número parece grande en esto?</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/NumeroNarcisista">Solución</a>
+    - <a href="https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/train/java">Ordenar solo Impares</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/OrdenaLoImpar">Solución</a>
    
 + __5Kyu__
 + __4Kyu__
