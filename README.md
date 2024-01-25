@@ -58,6 +58,7 @@ En este repositorio encontrara ejercicios seleccionados de la plataforma web de 
     - <a href="https://www.codewars.com/kata/5287e858c6b5a9678200083c/train/java">¿Mi número parece grande en esto?</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/NumeroNarcisista">Solución</a>
     - <a href="https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/train/java">Ordenar solo Impares</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/OrdenaLoImpar">Solución</a>
     - <a href="https://www.codewars.com/kata/583203e6eb35d7980400002a/train/java">¡Cuenta las caras sonrientes!</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/ContadorCaritasSonrientes">Solución</a>
+    - <a href="">Cuanta los caracteres en una cadena</a> - <a href="">Solución</a>
    
 + __5Kyu__
 + __4Kyu__
