@@ -1,8 +1,12 @@
 # EJERCICIOS CODEWARS
-En este repositorio encontrara ejercicios seleccionados de la plataforma web de <a href="https://www.codewars.com">__CODEWARS__</a> pagina que soporta multiples lenguajes de programación. Ofrece una variedad de desafíos para desarrolladores de todos los niveles. Desde problemas fundamentales hasta desafíos avanzados, este repositorio proporciona oportunidades para mejorar habilidades en lenguaje y conceptos de programación __JAVA__. Ideal para aquellos que buscan practicar, aprender y perfeccionar sus habilidades en un entorno de codificación estructurado.
+En este repositorio encontrara ejercicios seleccionados de la plataforma web de <a href="https://www.codewars.com">__CODEWARS__</a> 
+pagina que soporta multiples lenguajes de programación. Ofrece una variedad de desafíos para desarrolladores de todos los niveles. 
+Desde problemas fundamentales hasta desafíos avanzados, este repositorio proporciona oportunidades para mejorar habilidades en 
+lenguaje y conceptos de programación __JAVA__. Ideal para aquellos que buscan practicar, aprender y perfeccionar sus habilidades en
+un entorno de codificación estructurado.
 
 ## NIVELES DE DIFICULTAD
-+ __8Kyu : NIVEL MORTAL__
++ __8Kyu : NIVEL MORTAL__ :heavy_plus_sign: :two:
     - <a href="https://www.codewars.com/kata/57356c55867b9b7a60000bd7/train/java">Operaciones Matemáticas Básicas</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/OperacionesBasicasMatematicas">Solución</a>
     - <a href="https://www.codewars.com/kata/56b1f01c247c01db92000076/train/java">Doble Carácter de una cadena</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/DobleCarcter">Solución</a>
     - <a href="https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b/train/java">Años del gato, Años del perro N° 1</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/A%C3%B1os_Gatos_Perros">Solución</a>
@@ -32,7 +36,7 @@ En este repositorio encontrara ejercicios seleccionados de la plataforma web de 
     - <a href="https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145/train/java">Sigue con el aro</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/SigueConElAro">Solución</a>
     - <a href="https://www.codewars.com/kata/582cb0224e56e068d800003c/train/java">¡Manténgase hidratado!</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/MantengaseHidratado">Solución</a>
     
-+ __7Kyu__
++ __7Kyu__ :heavy_plus_sign:
     - <a href="https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/java">Verificar un cuadrado de cuadrados</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CuadradoPerfecto">Solución</a>
     - <a href="https://www.codewars.com/kata/55fd2d567d94ac3bc9000064/train/java">Suma de números impares</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/SumaNumeroImpares">Solución</a>
     - <a href="https://www.codewars.com/kata/5949481f86420f59480000e7/train/java">¿Par o Impar? suma arrays</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/Par_o_Impar">Solución</a>
@@ -49,7 +53,7 @@ En este repositorio encontrara ejercicios seleccionados de la plataforma web de 
     - <a href="https://www.codewars.com/kata/5a6d3bd238f80014a2000187/train/java">Años del gato, Años del perro N° 2</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CalcularaniosPerrosGatos">Solución</a>
     - <a href="https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/java">Conteo de Vocales</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/ConteoVocales">Solución</a>
       
-+ __6Kyu__
++ __6Kyu__ :heavy_plus_sign: 8
     - <a href="https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/java">¿A quien le gusta? LIKE</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/QuienLeGustaLike">Solución</a>
     - <a href="https://www.codewars.com/kata/5208f99aee097e6552000148/train/java">Romper camelCase</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/RomaperCamelCase">Solución</a>
     - <a href="https://www.codewars.com/kata/523f5d21c841566fde000009/train/java">Array quitar números repetidos</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/QuitarRepetidosArray">Solución</a>
@@ -60,7 +64,7 @@ En este repositorio encontrara ejercicios seleccionados de la plataforma web de 
     - <a href="https://www.codewars.com/kata/583203e6eb35d7980400002a/train/java">¡Cuenta las caras sonrientes!</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/ContadorCaritasSonrientes">Solución</a>
     - <a href="https://www.codewars.com/kata/52efefcbcdf57161d4000091/train/java">Cuanta los caracteres en una cadena</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/ContadroCaracteresCadena">Solución</a>
    
-+ __5Kyu__
++ __5Kyu__ :heavy_plus_sign: 
 + __4Kyu__
     - <a href="https://www.codewars.com/kata/55983863da40caa2c900004e/train/java">El siguiente número mayor con los mismos dígitos</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu4/NumeroMayorMismosDigitos">Solución</a>
 
