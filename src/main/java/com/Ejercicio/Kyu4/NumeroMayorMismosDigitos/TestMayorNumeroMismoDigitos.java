@@ -1,23 +1,18 @@
 package com.Ejercicio.Kyu4.NumeroMayorMismosDigitos;
 
-import java.util.Scanner;
+import static com.Ejercicio.Kyu4.NumeroMayorMismosDigitos.MayorNumeroMismoDigitos.siguienteMayorDigito;
 
 public class TestMayorNumeroMismoDigitos {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        String num = sc.next();
-        int number = Integer.parseInt(num);
-        int[] digitos = new int[num.length()];
-        int i = digitos.length - 1;
-        while (number > 0) {
-            //System.out.println( number % 10); //el residuo es tu número empezando por el último, osea en reversa, lo puedes ir guardando en un array de integers empezando por el último.
-            digitos[i] = number%10;
-            number = number / 10;
-            i--;
-        }
-
-        for(int j=0; j < digitos.length; j++){
-            System.out.println(digitos[j]);
-        }
+        System.out.println("Test de prueba inversion de últimos dígitos si es mayor o -1");
+        System.out.println("Número [12] : "+siguienteMayorDigito(12));
+        System.out.println("Número [513] : "+siguienteMayorDigito(513));
+        System.out.println("Número [2017] : "+siguienteMayorDigito(2017));
+        System.out.println("Número [414] : "+siguienteMayorDigito(414));
+        System.out.println("Número [144] : "+siguienteMayorDigito(144));
+        System.out.println("Número [10990] : "+siguienteMayorDigito(10990));
+        System.out.println("Número [9] : "+siguienteMayorDigito(9));
+        System.out.println("Número [111] : "+siguienteMayorDigito(111));
+        System.out.println("Número [531] : "+siguienteMayorDigito(531));
     }
 }

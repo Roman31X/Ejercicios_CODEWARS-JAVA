@@ -9,6 +9,6 @@ public class TestContadorCaritasFelices {
         System.out.println("Test para contar caritas dentro de un List");
         List<String> a = new ArrayList<String>();
         a.add(":)"); a.add("XD"); a.add(":0}"); a.add("x:-"); a.add("):-"); a.add("D:");
-        System.out.println("List [] : "+contadorFeliz(a));
+        System.out.println("List [\":)\",\"XD\",\":0}\",\"x:-\",\"):-\",\"D:\"] : "+contadorFeliz(a));
     }
 }
