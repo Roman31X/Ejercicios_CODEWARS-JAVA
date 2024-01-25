@@ -54,7 +54,7 @@ un entorno de codificación estructurado.
     - <a href="https://www.codewars.com/kata/5a6d3bd238f80014a2000187/train/java">Años del gato, Años del perro N° 2</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CalcularaniosPerrosGatos">Solución</a>
     - <a href="https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/java">Conteo de Vocales</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/ConteoVocales">Solución</a>
       
-+ __6Kyu__ :heavy_plus_sign: 8
++ __6Kyu__ :heavy_plus_sign: :eight:
     - <a href="https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/java">¿A quien le gusta? LIKE</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/QuienLeGustaLike">Solución</a>
     - <a href="https://www.codewars.com/kata/5208f99aee097e6552000148/train/java">Romper camelCase</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/RomaperCamelCase">Solución</a>
     - <a href="https://www.codewars.com/kata/523f5d21c841566fde000009/train/java">Array quitar números repetidos</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/QuitarRepetidosArray">Solución</a>
@@ -65,7 +65,7 @@ un entorno de codificación estructurado.
     - <a href="https://www.codewars.com/kata/583203e6eb35d7980400002a/train/java">¡Cuenta las caras sonrientes!</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/ContadorCaritasSonrientes">Solución</a>
     - <a href="https://www.codewars.com/kata/52efefcbcdf57161d4000091/train/java">Cuanta los caracteres en una cadena</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/ContadroCaracteresCadena">Solución</a>
     - <a href="https://www.codewars.com/kata/56a5d994ac971f1ac500003e/train/java">Cadenas consecutivas</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/CadenasConsecutivas">Solución</a>
-    - <a href="https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/train/java">Codificador duplicado (Caracter)</a> - <a href="">Solución</a>
+    - <a href="https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/train/java">Codificador duplicado (Caracter)</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/CodificadorDuplicado">Solución</a>
    
 + __5Kyu__ :heavy_plus_sign: 
 + __4Kyu__
