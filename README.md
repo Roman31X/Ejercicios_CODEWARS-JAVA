@@ -47,7 +47,7 @@ En este repositorio encontrara ejercicios seleccionados de la plataforma web de 
     - <a href="https://www.codewars.com/kata/5417423f9e2e6c2f040002ae/train/java">Digitalizar números</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/Digitalizar">Solución</a>
     - <a href="https://www.codewars.com/kata/554b4ac871d6813a03000035/train/java">Más alto y más bajo</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/MenorMayorStringNumeros">Solución</a>
     - <a href="https://www.codewars.com/kata/5a6d3bd238f80014a2000187/train/java">Años del gato, Años del perro N° 2</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CalcularaniosPerrosGatos">Solución</a>
-    - <a href="">Conteo de Vocales</a> - <a href="">Solución</a>
+    - <a href="https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/java">Conteo de Vocales</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/ConteoVocales">Solución</a>
       
 + __6Kyu__
     - <a href="https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/java">¿A quien le gusta? LIKE</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/QuienLeGustaLike">Solución</a>
@@ -61,7 +61,7 @@ En este repositorio encontrara ejercicios seleccionados de la plataforma web de 
    
 + __5Kyu__
 + __4Kyu__
-    - <a href="https://www.codewars.com/kata/55983863da40caa2c900004e/train/java">El siguiente número mayor con los mismos diitos</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu4/NumeroMayorMismosDigitos">Solución</a>
+    - <a href="https://www.codewars.com/kata/55983863da40caa2c900004e/train/java">El siguiente número mayor con los mismos dígitos</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu4/NumeroMayorMismosDigitos">Solución</a>
 
 + __3Kyu__
 + __2Kyu__
