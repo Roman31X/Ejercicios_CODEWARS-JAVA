@@ -64,7 +64,7 @@ un entorno de codificación estructurado.
     - <a href="https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/train/java">Ordenar solo Impares</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/OrdenaLoImpar">Solución</a>
     - <a href="https://www.codewars.com/kata/583203e6eb35d7980400002a/train/java">¡Cuenta las caras sonrientes!</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/ContadorCaritasSonrientes">Solución</a>
     - <a href="https://www.codewars.com/kata/52efefcbcdf57161d4000091/train/java">Cuanta los caracteres en una cadena</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/ContadroCaracteresCadena">Solución</a>
-    - <a href="">Cadenas consecutivas</a> - <a href="">Solución</a>
+    - <a href="https://www.codewars.com/kata/56a5d994ac971f1ac500003e/train/java">Cadenas consecutivas</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/CadenasConsecutivas">Solución</a>
    
 + __5Kyu__ :heavy_plus_sign: 
 + __4Kyu__
