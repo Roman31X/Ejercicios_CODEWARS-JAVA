@@ -53,7 +53,7 @@ un entorno de codificación estructurado.
     - <a href="https://www.codewars.com/kata/554b4ac871d6813a03000035/train/java">Más alto y más bajo</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/MenorMayorStringNumeros">Solución</a>
     - <a href="https://www.codewars.com/kata/5a6d3bd238f80014a2000187/train/java">Años del gato, Años del perro N° 2</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CalcularaniosPerrosGatos">Solución</a>
     - <a href="https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/java">Conteo de Vocales</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/ConteoVocales">Solución</a>
-    - <a href="https://www.codewars.com/kata/57a23e3753ba332b8e0008da/train/java">Sistema de contraseña</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/SistemaContrase%C3%B1a">Solución</a>
+    - <a href="https://www.codewars.com/kata/57a23e3753ba332b8e0008da/train/java">Sistema de contraseña</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/SistemaContrase%C3%B1a">Solución</a>
       
 + __6Kyu__ :heavy_plus_sign: :eight:
     - <a href="https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/java">¿A quien le gusta? LIKE</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/QuienLeGustaLike">Solución</a>
