@@ -1,6 +1,6 @@
-package com.Ejercicio.Kyu6.SistemaContraseña;
+package com.Ejercicio.Kyu7.SistemaContraseña;
 
-import static com.Ejercicio.Kyu6.SistemaContraseña.VerificarContraseñaSistema.verificarContrasenia;
+import static com.Ejercicio.Kyu7.SistemaContraseña.VerificarContraseñaSistema.verificarContrasenia;
 
 public class TestVerificacionContraseniaaSistema {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.Ejercicio.Kyu6.SistemaContraseña;
+package com.Ejercicio.Kyu7.SistemaContraseña;
 
 public class VerificarContraseñaSistema {
     public static String verificarContrasenia(final int[] key){
