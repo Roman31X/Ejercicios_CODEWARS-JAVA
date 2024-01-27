@@ -66,6 +66,7 @@ un entorno de codificación estructurado.
     - <a href="https://www.codewars.com/kata/52efefcbcdf57161d4000091/train/java">Cuanta los caracteres en una cadena</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/ContadroCaracteresCadena">Solución</a>
     - <a href="https://www.codewars.com/kata/56a5d994ac971f1ac500003e/train/java">Cadenas consecutivas</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/CadenasConsecutivas">Solución</a>
     - <a href="https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/train/java">Codificador duplicado (Carácter)</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/CodificadorDuplicado">Solución</a>
+    - <a href="">Sistema de contraseña</a> - <a href="">Solución</a>
    
 + __5Kyu__ :heavy_plus_sign: 
 + __4Kyu__
