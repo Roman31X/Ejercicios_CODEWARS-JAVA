@@ -2,8 +2,8 @@ package com.Ejercicio.Kyu7.PalabraInversa;
 
 public class InvertirPalabra {
     public static String reversoPalabra(final String original){
-        // Dividir la cadena en palabras
-        String[] palabras = original.split("(\\b)");
+        // Dividir la cadena en palabras y conservar los delimitadores
+        String[] palabras = original.split("(?<=\\b)");
 
         // Invertir cada palabra en el arreglo
         for (int i = 0; i < palabras.length; i++) {
@@ -22,9 +22,6 @@ public class InvertirPalabra {
 
             // Convertir el arreglo de caracteres invertido de vuelta a una cadena
             palabras[i] = new String(caracteres);
-        }
-        for (int i = 0; i < palabras.length; i++) {
-            System.out.print(palabras[i]);
         }
 
         // Unir las palabras invertidas en una cadena
