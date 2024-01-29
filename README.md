@@ -37,6 +37,7 @@ un entorno de codificación estructurado.
     - <a href="https://www.codewars.com/kata/582cb0224e56e068d800003c/train/java">¡Manténgase hidratado!</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/MantengaseHidratado">Solución</a>
     - <a href="https://www.codewars.com/kata/56dec885c54a926dcd001095/train/java">Número Opuesto</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/NumeroOpuesto">Solución</a>
     - <a href="https://www.codewars.com/kata/5ab6538b379d20ad880000ab/train/java">Área o Perimetro</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/AreaoPerimetro">Solución</a>
+    - <a href="https://www.codewars.com/kata/53dc54212259ed3d4f00071c/train/java">Matrices de suma</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/MatricesDeSuma">Solución</a>
     
 + __7Kyu__ :heavy_plus_sign:
     - <a href="https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/java">Verificar un cuadrado de cuadrados</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CuadradoPerfecto">Solución</a>
