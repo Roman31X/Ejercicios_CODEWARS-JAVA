@@ -40,9 +40,9 @@ un entorno de codificación estructurado.
     - <a href="https://www.codewars.com/kata/53dc54212259ed3d4f00071c/train/java">Matrices de suma</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/MatricesDeSuma">Solución</a>
     - <a href="https://www.codewars.com/kata/57f781872e3d8ca2a000007e/train/java">Principiante - Perdido sin mapa</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/PerdidoSinMapa">Solución</a>
     - <a href="https://www.codewars.com/kata/56f6ad906b88de513f000d96/train/java">¿Recibo un bono?</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/ReciboUnBono">Solución</a>
-    - <a href="https://www.codewars.com/kata/5601409514fc93442500010b/train/java">¿Qué tan bueno eres realmente?</a> - <a href="">Solución</a>
+    - <a href="https://www.codewars.com/kata/5601409514fc93442500010b/train/java">¿Qué tan bueno eres realmente?</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/QueTanBuenoEresRealmente">Solución</a>
     
-+ __7Kyu__ :heavy_plus_sign:
++ __7Kyu__ :heavy_plus_sign: :seven:
     - <a href="https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/java">Verificar un cuadrado de cuadrados</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CuadradoPerfecto">Solución</a>
     - <a href="https://www.codewars.com/kata/55fd2d567d94ac3bc9000064/train/java">Suma de números impares</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/SumaNumeroImpares">Solución</a>
     - <a href="https://www.codewars.com/kata/5949481f86420f59480000e7/train/java">¿Par o Impar? suma arrays</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/Par_o_Impar">Solución</a>
@@ -60,6 +60,7 @@ un entorno de codificación estructurado.
     - <a href="https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/java">Conteo de Vocales</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/ConteoVocales">Solución</a>
     - <a href="https://www.codewars.com/kata/57a23e3753ba332b8e0008da/train/java">Sistema de contraseña</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/SistemaContrase%C3%B1a">Solución</a>
     - <a href="https://www.codewars.com/kata/5259b20d6021e9e14c0010d4/train/java">Palabras inversas</a> - <a href="">Solución</a>
+    - <a href="https://www.codewars.com/kata/56606694ec01347ce800001b/train/java">¿Es esto un triángulo?</a> - <a href="">Solución</a>
       
 + __6Kyu__ :heavy_plus_sign: :eight:
     - <a href="https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/java">¿A quien le gusta? LIKE</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/QuienLeGustaLike">Solución</a>
