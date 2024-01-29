@@ -42,7 +42,8 @@ un entorno de codificación estructurado.
     - <a href="https://www.codewars.com/kata/56f6ad906b88de513f000d96/train/java">¿Recibo un bono?</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/ReciboUnBono">Solución</a>
     - <a href="https://www.codewars.com/kata/5601409514fc93442500010b/train/java">¿Qué tan bueno eres realmente?</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/QueTanBuenoEresRealmente">Solución</a>
     - <a href="https://www.codewars.com/kata/57eaeb9578748ff92a000009/train/java">Matriz mista de suma</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/MatrizMixtaDeSuma">Solución</a>
-    
+    - <a href="https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd/train/java">Serie patra principiantes #1 : Tramites escolares</a> - <a href="">Solución</a>
+     
 + __7Kyu__ :heavy_plus_sign: :seven:
     - <a href="https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/java">Verificar un cuadrado de cuadrados</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CuadradoPerfecto">Solución</a>
     - <a href="https://www.codewars.com/kata/55fd2d567d94ac3bc9000064/train/java">Suma de números impares</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/SumaNumeroImpares">Solución</a>
