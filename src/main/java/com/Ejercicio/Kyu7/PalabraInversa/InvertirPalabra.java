@@ -3,28 +3,27 @@ package com.Ejercicio.Kyu7.PalabraInversa;
 public class InvertirPalabra {
     public static String reversoPalabra(final String original){
         // Dividir la cadena en palabras y conservar los delimitadores
-        String[] palabras = original.split("(?<=\\b)");
+        StringBuilder resultado = new StringBuilder(original.length());
 
-        // Invertir cada palabra en el arreglo
-        for (int i = 0; i < palabras.length; i++) {
-            // Convertir la palabra a un arreglo de caracteres para invertirla más fácilmente
-            char[] caracteres = palabras[i].toCharArray();
+        // Variable para almacenar la palabra actual mientras se construye
+        StringBuilder palabraActual = new StringBuilder();
 
-            // Invertir el arreglo de caracteres en su lugar
-            int izquierda = 0, derecha = caracteres.length - 1;
-            while (izquierda < derecha) {
-                char temp = caracteres[izquierda];
-                caracteres[izquierda] = caracteres[derecha];
-                caracteres[derecha] = temp;
-                izquierda++;
-                derecha--;
+        // Iterar sobre cada carácter en la cadena original
+        for (char c : original.toCharArray()) {
+            if (Character.isLetterOrDigit(c)) {
+                // Si es un carácter alfanumérico, agregarlo a la palabra actual
+                palabraActual.append(c);
+            } else {
+                // Si es un delimitador, invertir la palabra actual y agregarla al resultado
+                resultado.append(palabraActual.reverse());
+                palabraActual.setLength(0); // Limpiar la palabra actual para la siguiente iteración
+                resultado.append(c); // Agregar el delimitador al resultado
             }
-
-            // Convertir el arreglo de caracteres invertido de vuelta a una cadena
-            palabras[i] = new String(caracteres);
         }
 
-        // Unir las palabras invertidas en una cadena
-        return String.join("", palabras);
+        // Asegurarse de invertir y agregar la última palabra si existe
+        resultado.append(palabraActual.reverse());
+
+        return resultado.toString();
     }
 }
