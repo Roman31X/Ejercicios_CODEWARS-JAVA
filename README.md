@@ -64,7 +64,7 @@ un entorno de codificación estructurado.
     - <a href="https://www.codewars.com/kata/57a23e3753ba332b8e0008da/train/java">Sistema de contraseña</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/SistemaContrase%C3%B1a">Solución</a>
     - <a href="https://www.codewars.com/kata/5259b20d6021e9e14c0010d4/train/java">Palabras inversas</a> - <a href="">Solución</a>
     - <a href="https://www.codewars.com/kata/56606694ec01347ce800001b/train/java">¿Es esto un triángulo?</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/EstoEsUnTriangulo">Solución</a>
-    - <a href="">Orden Descendiente</a> - <a href="">Solución</a>
+    - <a href="https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/java">Orden Descendiente</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/OrdenDescendiente">Solución</a>
       
 + __6Kyu__ :heavy_plus_sign: :eight:
     - <a href="https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/java">¿A quien le gusta? LIKE</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/QuienLeGustaLike">Solución</a>
@@ -80,6 +80,7 @@ un entorno de codificación estructurado.
     - <a href="https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/train/java">Codificador duplicado (Carácter)</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/CodificadorDuplicado">Solución</a>
     - <a href="https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/java">Crear número de teléfono</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/CrearNumeroTelefonico">Solución</a>
     - <a href="https://www.codewars.com/kata/554a44516729e4d80b000012/train/java">Comprando un carro</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/ComprarUnCarro">Solución</a>
+    - <a href="https://www.codewars.com/kata/55a7de09273f6652b200002e/train/java">Numero Lucas</a> - <a href="">Solución</a>
    
 + __5Kyu__ :heavy_plus_sign: 
 + __4Kyu__
