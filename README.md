@@ -45,6 +45,7 @@ un entorno de codificación estructurado.
     - <a href="https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd/train/java">Serie para principiantes #1 : Tramites escolares</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/PrincipiantesTramitesEscolar">Solución</a>
     - <a href="https://www.codewars.com/kata/576bb71bbbcf0951d5000044/train/java">Contar Positivos / Sumar negativos Array</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/ContarPositivosSumarNegativos">Solución</a>
     - <a href="https://www.codewars.com/kata/57b58827d2a31c57720012e8/train/java">Calculadora de combustible: costo total</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/CalculadoraCombustibleTotal">Solución</a>
+    - <a href="https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/java">Par o Impar</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/ParoImpar">Solución</a>
      
 + __7Kyu__ :heavy_plus_sign: :seven:
     - <a href="https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/java">Verificar un cuadrado de cuadrados</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CuadradoPerfecto">Solución</a>
