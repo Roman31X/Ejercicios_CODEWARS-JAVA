@@ -1,6 +1,6 @@
-package com.Ejercicio.Kyu6.RomaperCamelCase;
+package com.Ejercicio.Kyu6.RomperCamelCase;
 
-import static com.Ejercicio.Kyu6.RomaperCamelCase.RomperCamelCase.camelCase;
+import static com.Ejercicio.Kyu6.RomperCamelCase.RomperCamelCase.camelCase;
 
 public class TestPruebaRomperCamelCase {
     public static void main(String[] args) {

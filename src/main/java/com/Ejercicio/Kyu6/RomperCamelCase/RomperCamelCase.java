@@ -1,4 +1,4 @@
-package com.Ejercicio.Kyu6.RomaperCamelCase;
+package com.Ejercicio.Kyu6.RomperCamelCase;
 
 public class RomperCamelCase {
     public static String camelCase(String input){
