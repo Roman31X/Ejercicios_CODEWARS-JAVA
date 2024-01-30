@@ -2,14 +2,18 @@ package com.Ejercicio.Kyu8.CalculadoraCombustibleTotal;
 
 public class CalculoCostoCombustible {
     public static double litrosPrecio(int litres, double pricePerLitre){
-        final int discountThreshold = 2;
-        final double maxDiscount = 0.25;
+        // Verificar si hay descuento y calcularlo
+        double discount = 0.05 * (litres / 2);
 
-        int discount = litres / discountThreshold * 5;
-        discount = Math.min(discount, (int) (pricePerLitre * maxDiscount * 100));
+        // Limitar el descuento máximo a 25 céntimos por litro
+        discount = Math.min(discount, 0.25);
 
-        double totalCost = litres * pricePerLitre - discount / 100.0;
+        // Calcular el costo total después del descuento
+        double totalCost = litres * (pricePerLitre - discount);
 
-        return Math.round(totalCost * 100.0) / 100.0;
+        // Redondear el resultado a 2 decimales
+        totalCost = Math.round(totalCost * 100.0) / 100.0;
+
+        return totalCost;
     }
 }
