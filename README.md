@@ -43,7 +43,7 @@ un entorno de codificación estructurado.
     - <a href="https://www.codewars.com/kata/5601409514fc93442500010b/train/java">¿Qué tan bueno eres realmente?</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/QueTanBuenoEresRealmente">Solución</a>
     - <a href="https://www.codewars.com/kata/57eaeb9578748ff92a000009/train/java">Matriz mista de suma</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/MatrizMixtaDeSuma">Solución</a>
     - <a href="https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd/train/java">Serie para principiantes #1 : Tramites escolares</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/PrincipiantesTramitesEscolar">Solución</a>
-    - <a href="https://www.codewars.com/kata/576bb71bbbcf0951d5000044/train/java">Contar Positivos / Sumar negativos Array</a> - <a href="">Solución</a>
+    - <a href="https://www.codewars.com/kata/576bb71bbbcf0951d5000044/train/java">Contar Positivos / Sumar negativos Array</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/ContarPositivosSumarNegativos">Solución</a>
      
 + __7Kyu__ :heavy_plus_sign: :seven:
     - <a href="https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/java">Verificar un cuadrado de cuadrados</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CuadradoPerfecto">Solución</a>
@@ -64,6 +64,7 @@ un entorno de codificación estructurado.
     - <a href="https://www.codewars.com/kata/57a23e3753ba332b8e0008da/train/java">Sistema de contraseña</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/SistemaContrase%C3%B1a">Solución</a>
     - <a href="https://www.codewars.com/kata/5259b20d6021e9e14c0010d4/train/java">Palabras inversas</a> - <a href="">Solución</a>
     - <a href="https://www.codewars.com/kata/56606694ec01347ce800001b/train/java">¿Es esto un triángulo?</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/EstoEsUnTriangulo">Solución</a>
+    - <a href="">Orden Descendiente</a> - <a href="">Solución</a>
       
 + __6Kyu__ :heavy_plus_sign: :eight:
     - <a href="https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/java">¿A quien le gusta? LIKE</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/QuienLeGustaLike">Solución</a>
