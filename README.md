@@ -72,6 +72,7 @@ un entorno de codificación estructurado.
     - <a href="https://www.codewars.com/kata/55f2b110f61eb01779000053/train/java">Serie para principiantes N° 3 Suma de números</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/SeriePrincipiantesSumaNumeros">Solución</a>
     - <a href="https://www.codewars.com/kata/5b043e3886d0752685000009/train/java">Pagos de pizza</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/PagosPizza">Solución</a>
     - <a href="https://www.codewars.com/kata/579ba41ce298a73aaa000255/train/java">¡Nombra ese número!</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/NombraEseNumero">Solución</a>
+    - <a href="https://www.codewars.com/kata/55960bbb182094bc4800007b/train/java">Insertar Guiones</a> - <a href="">Solución</a>
       
 + __6Kyu__ :heavy_plus_sign: :eight:
     - <a href="https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/java">¿A quien le gusta? LIKE</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/QuienLeGustaLike">Solución</a>
