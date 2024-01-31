@@ -46,7 +46,7 @@ un entorno de codificación estructurado.
     - <a href="https://www.codewars.com/kata/576bb71bbbcf0951d5000044/train/java">Contar Positivos / Sumar negativos Array</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/ContarPositivosSumarNegativos">Solución</a>
     - <a href="https://www.codewars.com/kata/57b58827d2a31c57720012e8/train/java">Calculadora de combustible: costo total</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/CalculadoraCombustibleTotal">Solución</a>
     - <a href="https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/java">Par o Impar</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/ParoImpar">Solución</a>
-    - <a href="https://www.codewars.com/kata/5583090cbe83f4fd8c000051/train/java">Convertir un número en una matriz de dígitos invertida</a> - <a href="">Solución</a>
+    - <a href="https://www.codewars.com/kata/5583090cbe83f4fd8c000051/train/java">Convertir un número en una matriz de dígitos invertida</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/InvertirDigitosMatris">Solución</a>
      
 + __7Kyu__ :heavy_plus_sign: :seven:
     - <a href="https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/java">Verificar un cuadrado de cuadrados</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CuadradoPerfecto">Solución</a>
