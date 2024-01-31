@@ -68,7 +68,8 @@ un entorno de codificación estructurado.
     - <a href="https://www.codewars.com/kata/56606694ec01347ce800001b/train/java">¿Es esto un triángulo?</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/EstoEsUnTriangulo">Solución</a>
     - <a href="https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/java">Orden Descendiente</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/OrdenDescendiente">Solución</a>
     - <a href="https://www.codewars.com/kata/542c0f198e077084c0000c2e/train/java">Contar los divisores de un número</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/ContadorDivisoresNumero">Solución</a>
-    - <a href="https://www.codewars.com/kata/55f2b110f61eb01779000053/train/java">Serie para principiantes N° 3 Suma de números</a> - <a href="">Solución</a>
+    - <a href="https://www.codewars.com/kata/55f2b110f61eb01779000053/train/java">Serie para principiantes N° 3 Suma de números</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/SeriePrincipiantesSumaNumeros">Solución</a>
+    - <a href="https://www.codewars.com/kata/5b043e3886d0752685000009/train/java">Pagos de pizza</a> - <a href="">Solución</a>
       
 + __6Kyu__ :heavy_plus_sign: :eight:
     - <a href="https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/java">¿A quien le gusta? LIKE</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/QuienLeGustaLike">Solución</a>
