@@ -47,7 +47,7 @@ un entorno de codificación estructurado.
     - <a href="https://www.codewars.com/kata/57b58827d2a31c57720012e8/train/java">Calculadora de combustible: costo total</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/CalculadoraCombustibleTotal">Solución</a>
     - <a href="https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/java">Par o Impar</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/ParoImpar">Solución</a>
     - <a href="https://www.codewars.com/kata/5583090cbe83f4fd8c000051/train/java">Convertir un número en una matriz de dígitos invertida</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/InvertirDigitosMatris">Solución</a>
-    - <a href="https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/java">Repetición de Cuerda (String)</a> - <a href="">Solución</a>
+    - <a href="https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/java">Repetición de Cuerda (String)</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/RepeticionCuerda">Solución</a>
      
 + __7Kyu__ :heavy_plus_sign: :seven:
     - <a href="https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/java">Verificar un cuadrado de cuadrados</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CuadradoPerfecto">Solución</a>
@@ -92,6 +92,7 @@ un entorno de codificación estructurado.
     - <a href="https://www.codewars.com/kata/55a7de09273f6652b200002e/train/java">Numero Lucas</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/NumerosDeLucas">Solución</a>
     - <a href="https://www.codewars.com/kata/55a5c82cd8e9baa49000004c/train/java">Contar los números divisibles</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/ContarLosNumerosDivisibles">Solución</a>
     - <a href="https://www.codewars.com/kata/576757b1df89ecf5bd00073b/train/java">Construir Torre</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/ConstruirTorre">Solución</a>
+    - <a href=""></a> - <a href="">Solución</a>
    
 + __5Kyu__ :heavy_plus_sign: 
 + __4Kyu__
