@@ -90,6 +90,7 @@ un entorno de codificación estructurado.
     - <a href="https://www.codewars.com/kata/554a44516729e4d80b000012/train/java">Comprando un carro</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/ComprarUnCarro">Solución</a>
     - <a href="https://www.codewars.com/kata/55a7de09273f6652b200002e/train/java">Numero Lucas</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/NumerosDeLucas">Solución</a>
     - <a href="https://www.codewars.com/kata/55a5c82cd8e9baa49000004c/train/java">Contar los números divisibles</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/ContarLosNumerosDivisibles">Solución</a>
+    - <a href="https://www.codewars.com/kata/576757b1df89ecf5bd00073b/train/java">Construir Torre</a> - <a href="">Solución</a>
    
 + __5Kyu__ :heavy_plus_sign: 
 + __4Kyu__

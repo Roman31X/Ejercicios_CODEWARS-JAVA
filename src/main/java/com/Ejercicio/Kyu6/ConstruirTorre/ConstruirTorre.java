@@ -1,4 +1,4 @@
-package com.Ejercicio.Kyu6.ConatruirTorre;
+package com.Ejercicio.Kyu6.ConstruirTorre;
 
 public class ConstruirTorre {
     public static String[] construirTorre(int nFloors){

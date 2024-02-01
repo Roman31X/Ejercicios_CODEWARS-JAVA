@@ -1,8 +1,8 @@
-package com.Ejercicio.Kyu6.ConatruirTorre;
+package com.Ejercicio.Kyu6.ConstruirTorre;
 
 import java.util.Arrays;
 
-import static com.Ejercicio.Kyu6.ConatruirTorre.ConstruirTorre.construirTorre;
+import static com.Ejercicio.Kyu6.ConstruirTorre.ConstruirTorre.construirTorre;
 
 public class TestConstruirTorre {
     public static void main(String[] args) {
