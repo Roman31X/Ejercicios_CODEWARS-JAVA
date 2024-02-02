@@ -51,6 +51,7 @@ un entorno de codificación estructurado.
     - <a href="https://www.codewars.com/kata/5a00e05cc374cb34d100000d/train/java">Secuencia Invertida</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/SecuenciaInvertida">Solución</a>
     - <a href="https://www.codewars.com/kata/53af2b8861023f1d88000832/train/java">¿Estás tocando el banjo?</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/EstasTocandoBanjo">Solución</a>
     - <a href="https://www.codewars.com/kata/555086d53eac039a2a000083/train/java">Los opuestos se atraen</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/LosOpuestosAtraen">Solución</a>
+    - <a href="https://www.codewars.com/kata/58649884a1659ed6cb000072/train/java">Pensativo - Ejercicios de Lógica: Semáforo</a> - <a href="">Solución</a>
      
 + __7Kyu__ :heavy_plus_sign: :seven:
     - <a href="https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/java">Verificar un cuadrado de cuadrados</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CuadradoPerfecto">Solución</a>
