@@ -7,5 +7,6 @@ public class TestInvertiPalabra {
         System.out.println("Test de inversion de palabra");
         System.out.println("\"!Los perros ladran¡\" : "+reversoPalabra("!Los perros ladran¡"));
         System.out.println("\"...jumps over the lazy [dog.]\" : "+reversoPalabra("...jumps over the lazy [dog.]"));
+        System.out.println("\"   \" : "+reversoPalabra("   "));
     }
 }
