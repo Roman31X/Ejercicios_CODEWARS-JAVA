@@ -49,6 +49,7 @@ un entorno de codificación estructurado.
     - <a href="https://www.codewars.com/kata/5583090cbe83f4fd8c000051/train/java">Convertir un número en una matriz de dígitos invertida</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/InvertirDigitosMatris">Solución</a>
     - <a href="https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/java">Repetición de Cuerda (String)</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/RepeticionCuerda">Solución</a>
     - <a href="https://www.codewars.com/kata/5a00e05cc374cb34d100000d/train/java">Secuencia Invertida</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/SecuenciaInvertida">Solución</a>
+    - <a href="https://www.codewars.com/kata/53af2b8861023f1d88000832/train/java">¿Estás tocando el banjo?</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/EstasTocandoBanjo">Solución</a>
      
 + __7Kyu__ :heavy_plus_sign: :seven:
     - <a href="https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/java">Verificar un cuadrado de cuadrados</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CuadradoPerfecto">Solución</a>
