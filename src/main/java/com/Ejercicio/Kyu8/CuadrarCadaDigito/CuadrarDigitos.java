@@ -1,4 +1,4 @@
-package com.Ejercicio.Kyu7.CuadrarCadaDigito;
+package com.Ejercicio.Kyu8.CuadrarCadaDigito;
 
 public class CuadrarDigitos {
     public static int cuadrarDigito(int n){

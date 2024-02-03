@@ -1,6 +1,6 @@
-package com.Ejercicio.Kyu7.CuadrarCadaDigito;
+package com.Ejercicio.Kyu8.CuadrarCadaDigito;
 
-import static com.Ejercicio.Kyu7.CuadrarCadaDigito.CuadrarDigitos.cuadrarDigito;
+import static com.Ejercicio.Kyu8.CuadrarCadaDigito.CuadrarDigitos.cuadrarDigito;
 
 public class TestCuadrarDigitosEntero {
     public static void main(String[] args) {
