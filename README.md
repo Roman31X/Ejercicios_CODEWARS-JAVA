@@ -53,6 +53,7 @@ un entorno de codificación estructurado.
     - <a href="https://www.codewars.com/kata/555086d53eac039a2a000083/train/java">Los opuestos se atraen</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/LosOpuestosAtraen">Solución</a>
     - <a href="https://www.codewars.com/kata/58649884a1659ed6cb000072/train/java">Pensativo - Ejercicios de Lógica: Semáforo</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/EjercicioSemaforo">Solución</a>
     - <a href="https://www.codewars.com/kata/53369039d7ab3ac506000467/train/java">Convertir valores booleanos a cadenas 'Yes' o 'No'</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/ConviertaBooleanASiyNo">Solución</a>
+    - <a href=""></a> - <a href="">Solución</a>
      
 + __7Kyu__ :heavy_plus_sign: :seven:
     - <a href="https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/java">Verificar un cuadrado de cuadrados</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CuadradoPerfecto">Solución</a>
@@ -98,6 +99,7 @@ un entorno de codificación estructurado.
     - <a href="https://www.codewars.com/kata/55a5c82cd8e9baa49000004c/train/java">Contar los números divisibles</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/ContarLosNumerosDivisibles">Solución</a>
     - <a href="https://www.codewars.com/kata/576757b1df89ecf5bd00073b/train/java">Construir Torre</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/ConstruirTorre">Solución</a>
     - <a href="https://www.codewars.com/kata/585d7d5adb20cf33cb000235/train/java">Encuentra el número único</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/EncuentraNumeroUnico">Solución</a>
+    - <a href="https://www.codewars.com/kata/55f3da49e83ca1ddae0000ad/train/java">Camión Cisterna</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/CamionCisterna">Solución</a>
    
 + __5Kyu__ :heavy_plus_sign: 
 + __4Kyu__
