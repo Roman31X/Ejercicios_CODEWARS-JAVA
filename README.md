@@ -55,6 +55,7 @@ un entorno de codificación estructurado.
     - <a href="https://www.codewars.com/kata/53369039d7ab3ac506000467/train/java">Convertir valores booleanos a cadenas 'Yes' o 'No'</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/ConviertaBooleanASiyNo">Solución</a>
     - <a href="https://www.codewars.com/kata/5b077ebdaf15be5c7f000077/train/java">¡¡Si no puedes dormir, cuenta ovejas!!</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/CuentaOvejas">Solución</a>
     - <a href="https://www.codewars.com/kata/546e2562b03326a88e000020/train/java">Elevar al cuadrado cada digito</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/CuadrarCadaDigito">Solución</a>
+    - <a href="https://www.codewars.com/kata/555a67db74814aa4ee0001b5/train/java">¿Es parejo?</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/EsParejo">Solución</a>
      
 + __7Kyu__ :heavy_plus_sign: :seven:
     - <a href="https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/java">Verificar un cuadrado de cuadrados</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CuadradoPerfecto">Solución</a>
