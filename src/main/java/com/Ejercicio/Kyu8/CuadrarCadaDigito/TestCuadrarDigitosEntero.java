@@ -9,6 +9,5 @@ public class TestCuadrarDigitosEntero {
         System.out.println("Número [0] : "+cuadrarDigito(0));
         System.out.println("Número [35] : "+cuadrarDigito(35));
         System.out.println("Número [250] : "+cuadrarDigito(250));
-
     }
 }
