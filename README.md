@@ -104,6 +104,7 @@ un entorno de codificación estructurado.
     - <a href="https://www.codewars.com/kata/576757b1df89ecf5bd00073b/train/java">Construir Torre</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/ConstruirTorre">Solución</a>
     - <a href="https://www.codewars.com/kata/585d7d5adb20cf33cb000235/train/java">Encuentra el número único</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/EncuentraNumeroUnico">Solución</a>
     - <a href="https://www.codewars.com/kata/55f3da49e83ca1ddae0000ad/train/java">Camión Cisterna</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/CamionCisterna">Solución</a>
+    - <a href="https://www.codewars.com/kata/55eeddff3f64c954c2000059/train/java">Suma consecutiva (List)</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/SumaConsecutivas">Solución</a>
    
 + __5Kyu__ :heavy_plus_sign: 
 + __4Kyu__
