@@ -5,6 +5,26 @@ Desde problemas fundamentales hasta desafíos avanzados, este repositorio propor
 lenguaje y conceptos de programación __JAVA__. Ideal para aquellos que buscan practicar, aprender y perfeccionar sus habilidades en
 un entorno de codificación estructurado.
 
+# __Test Implementados__
++ __Test pruebas sencillas__
+```java
+    public static void main(String[] args) {
+        System.out.println("Test de pruebas sencillas");
+        //Creas la logica de para obtener un resultado
+    }
+```
++ __Test completo con respuesta esperada - JUnit__
+```xml
+    <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.13</version>
+            <scope>compile</scope>
+    </dependency>
+```
+
+
+
 ## NIVELES DE DIFICULTAD
 + __8Kyu : NIVEL MORTAL__ :heavy_plus_sign: :two:
     - <a href="https://www.codewars.com/kata/57356c55867b9b7a60000bd7/train/java">Operaciones Matemáticas Básicas</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/OperacionesBasicasMatematicas">Solución</a>
@@ -106,7 +126,9 @@ un entorno de codificación estructurado.
     - <a href="https://www.codewars.com/kata/55f3da49e83ca1ddae0000ad/train/java">Camión Cisterna</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/CamionCisterna">Solución</a>
     - <a href="https://www.codewars.com/kata/55eeddff3f64c954c2000059/train/java">Suma consecutiva (List)</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/SumaConsecutivas">Solución</a>
    
-+ __5Kyu__ :heavy_plus_sign: 
++ __5Kyu__ :heavy_plus_sign: :eight:
+  - <a href="https://www.codewars.com/kata/5868b2de442e3fb2bb000119/train/java">Más cercano y más pequeño</a> - <a href="">Solución</a>
+
 + __4Kyu__
     - <a href="https://www.codewars.com/kata/55983863da40caa2c900004e/train/java">El siguiente número mayor con los mismos dígitos</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu4/NumeroMayorMismosDigitos">Solución</a>
 
