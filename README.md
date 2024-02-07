@@ -83,6 +83,7 @@ un entorno de codificación estructurado.
     - <a href="https://www.codewars.com/kata/579ba41ce298a73aaa000255/train/java">¡Nombra ese número!</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/NombraEseNumero">Solución</a>
     - <a href="https://www.codewars.com/kata/55960bbb182094bc4800007b/train/java">Insertar Guiones</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/InsertaGuiones">Solución</a>
     - <a href="https://www.codewars.com/kata/5656b6906de340bd1b0000ac/train/java">Dos a Uno (String)</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/DosCadenaAUno">Solución</a>
+    - <a href="https://www.codewars.com/kata/583f158ea20cfcbeb400000a/train/java">¡Haz una función que haga aritmética!</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/FuncionAritmetica">Solución</a>
       
 + __6Kyu__ :heavy_plus_sign: :eight:
     - <a href="https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/java">¿A quien le gusta? LIKE</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/QuienLeGustaLike">Solución</a>
