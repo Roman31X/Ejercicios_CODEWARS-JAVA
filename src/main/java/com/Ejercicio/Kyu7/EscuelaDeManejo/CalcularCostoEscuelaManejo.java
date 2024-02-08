@@ -9,9 +9,9 @@ public class CalcularCostoEscuelaManejo {
             if(mins < 75 && i == 0){
                 precio = "una";
                 estado = false;
-            }else if(mins >75){
+            }else if(mins >75 && i == 0){
                 precio = "una";
-            }else if(mins < 60 && mins > 0){
+            }else if(mins > 5){
                 precio = "media";
             }else{
                 precio = "salida";
