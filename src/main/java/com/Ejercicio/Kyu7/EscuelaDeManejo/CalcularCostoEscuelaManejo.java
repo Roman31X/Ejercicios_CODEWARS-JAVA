@@ -1,7 +1,7 @@
 package com.Ejercicio.Kyu7.EscuelaDeManejo;
 
 public class CalcularCostoEscuelaManejo {
-    public static int costo(int mins){
+    public static int costoClases(int mins){
         String precio = "";
         boolean estado = true;
         int total = 0, i = 0;

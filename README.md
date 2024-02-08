@@ -106,6 +106,7 @@ un entorno de codificación estructurado.
     - <a href="https://www.codewars.com/kata/5656b6906de340bd1b0000ac/train/java">Dos a Uno (String)</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/DosCadenaAUno">Solución</a>
     - <a href="https://www.codewars.com/kata/583f158ea20cfcbeb400000a/train/java">¡Haz una función que haga aritmética!</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/FuncionAritmetica">Solución</a>
     - <a href="https://www.codewars.com/kata/5648b12ce68d9daa6b000099/train/java">Número de personas en el autobús</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/NumerosPersonasAutobus">Solución</a>
+    - <a href="https://www.codewars.com/kata/589b1c15081bcbfe6700017a/train/java">Serie de escuelas de manejo N° 2</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/EscuelaDeManejo">Solución</a>
       
 + __6Kyu__ :heavy_plus_sign: :eight:
     - <a href="https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/java">¿A quien le gusta? LIKE</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/QuienLeGustaLike">Solución</a>
