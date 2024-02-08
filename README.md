@@ -127,7 +127,7 @@ un entorno de codificación estructurado.
     - <a href="https://www.codewars.com/kata/55eeddff3f64c954c2000059/train/java">Suma consecutiva (List)</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/SumaConsecutivas">Solución</a>
    
 + __5Kyu__ :heavy_plus_sign: :eight:
-  - <a href="https://www.codewars.com/kata/5868b2de442e3fb2bb000119/train/java">Más cercano y más pequeño</a> - <a href="">Solución</a>
+  - <a href="https://www.codewars.com/kata/5868b2de442e3fb2bb000119/train/java">Más cercano y más pequeño</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu5/MasCercanoMasPeque%C3%B1o">Solución</a>
 
 + __4Kyu__
     - <a href="https://www.codewars.com/kata/55983863da40caa2c900004e/train/java">El siguiente número mayor con los mismos dígitos</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu4/NumeroMayorMismosDigitos">Solución</a>
