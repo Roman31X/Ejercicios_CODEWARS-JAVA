@@ -129,7 +129,8 @@ un entorno de codificación estructurado.
     - <a href="https://www.codewars.com/kata/585d7d5adb20cf33cb000235/train/java">Encuentra el número único</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/EncuentraNumeroUnico">Solución</a>
     - <a href="https://www.codewars.com/kata/55f3da49e83ca1ddae0000ad/train/java">Camión Cisterna</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/CamionCisterna">Solución</a>
     - <a href="https://www.codewars.com/kata/55eeddff3f64c954c2000059/train/java">Suma consecutiva (List)</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/SumaConsecutivas">Solución</a>
-    - <a href="https://www.codewars.com/kata/54da539698b8a2ad76000228/train/java">Haga una caminata de diez minutos</a> - <a href="">Solución</a>
+    - <a href="https://www.codewars.com/kata/54da539698b8a2ad76000228/train/java">Haga una caminata de diez minutos</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/HagaCaminataDiezMinutos">Solución</a>
+    - <a href=""></a> - <a href="">Solución</a>
    
 + __5Kyu__ :heavy_plus_sign: :eight:
   - <a href="https://www.codewars.com/kata/5868b2de442e3fb2bb000119/train/java">Más cercano y más pequeño</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu5/MasCercanoMasPeque%C3%B1o">Solución</a>
