@@ -77,6 +77,7 @@ un entorno de codificación estructurado.
     - <a href="https://www.codewars.com/kata/546e2562b03326a88e000020/train/java">Elevar al cuadrado cada digito</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/CuadrarCadaDigito">Solución</a>
     - <a href="https://www.codewars.com/kata/555a67db74814aa4ee0001b5/train/java">¿Es parejo?</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/EsParejo">Solución</a>
     - <a href="https://www.codewars.com/kata/55ecd718f46fba02e5000029/train/java">¿Qué hay entre?</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/QueHayEntre">Solución</a>
+    - <a href="https://www.codewars.com/kata/577a98a6ae28071780000989/train/java">Encontrar valores máximos y mínimos de una lista</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/ValoresMaximosMinimos">Solución</a>
      
 + __7Kyu__ :heavy_plus_sign: :two:
     - <a href="https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/java">Verificar un cuadrado de cuadrados</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CuadradoPerfecto">Solución</a>
