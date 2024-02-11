@@ -2,28 +2,46 @@ package com.Ejercicio.Kyu6.Bolos;
 
 public class JuegoBolos {
     public static String bolosPinos(int[] arr){
-        char[][] pins = {
-                {'I', ' ', 'I', ' ', 'I', ' ', 'I'},
-                {' ', 'I', ' ', 'I', ' ', 'I', ' '},
-                {' ', ' ', 'I', ' ', 'I', ' ', ' '},
-                {' ', ' ', ' ', 'I', ' ', ' ', ' '},
-                {' ', ' ', ' ', 'I', ' ', ' ', ' '},
-        };
-
+        StringBuilder field = new StringBuilder(
+                "I I I I\n" +
+                " I I I \n" +
+                "  I I  \n" +
+                "   I   ");
         for (int pin : arr) {
-            int row = (pin - 1) / 4;
-            int col = (pin - 1) % 4 * 2 + (row % 2 == 0 ? 2 : 1);
-            pins[row][col] = ' ';
-        }
-        StringBuilder result = new StringBuilder();
-        for (char[] row : pins) {
-            for (char pin : row) {
-                result.append(pin);
+            switch (pin) {
+                case 1:
+                    field.setCharAt(27, ' ');
+                    break;
+                case 2:
+                    field.setCharAt(18, ' ');
+                    break;
+                case 3:
+                    field.setCharAt(20, ' ');
+                    break;
+                case 4:
+                    field.setCharAt(9, ' ');
+                    break;
+                case 5:
+                    field.setCharAt(11, ' ');
+                    break;
+                case 6:
+                    field.setCharAt(13, ' ');
+                    break;
+                case 7:
+                    field.setCharAt(0, ' ');
+                    break;
+                case 8:
+                    field.setCharAt(2, ' ');
+                    break;
+                case 9:
+                    field.setCharAt(4, ' ');
+                    break;
+                case 10:
+                    field.setCharAt(6, ' ');
+                    break;
             }
-            result.append('\n');
-            System.out.println(row);
         }
 
-        return result.toString();
+        return field.toString();
     }
 }
