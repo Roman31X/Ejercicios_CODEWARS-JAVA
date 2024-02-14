@@ -15,12 +15,26 @@ un entorno de codificación estructurado.
 ```
 + __Test completo con respuesta esperada - JUnit__
 ```xml
+<dependencies>
     <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>4.13</version>
             <scope>compile</scope>
     </dependency>
+    <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>RELEASE</version>
+            <scope>compile</scope>
+    </dependency>
+    <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-api</artifactId>
+            <version>5.9.2</version>
+            <scope>compile</scope>
+    </dependency>
+</dependencies>
 ```
 
 
@@ -108,6 +122,7 @@ un entorno de codificación estructurado.
     - <a href="https://www.codewars.com/kata/5648b12ce68d9daa6b000099/train/java">Número de personas en el autobús</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/NumerosPersonasAutobus">Solución</a>
     - <a href="https://www.codewars.com/kata/589b1c15081bcbfe6700017a/train/java">Serie de escuelas de manejo N° 2</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/EscuelaDeManejo">Solución</a>
     - <a href="https://www.codewars.com/kata/57d2807295497e652b000139/train/java">Promedios Números</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/PromedioDeNumeros">Solución</a>
+    - <a href="https://www.codewars.com/kata/5a0d38c9697598b67a000041/train/java">¡Elimina a los intrusos! Manipulación de bits</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/EliminaIntrusosBits">Solución</a>
        
 + __6Kyu__ :heavy_plus_sign: :eight:
     - <a href="https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/java">¿A quien le gusta? LIKE</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/QuienLeGustaLike">Solución</a>
