@@ -134,6 +134,7 @@ un entorno de codificación estructurado.
     - <a href="https://www.codewars.com/kata/5839edaa6754d6fec10000a2/train/java">Encuentra la letra que falta</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/EncuentraLetraFaltante">Solución</a>
     - <a href="https://www.codewars.com/kata/55c45be3b2079eccff00010f/train/java">Su pedido por favor</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/PedidoPorFavor">Solución</a>
     - <a href="https://www.codewars.com/kata/585cf93f6ad5e0d9bf000010/train/java">Juego Bolos</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/Bolos">Solución</a>
+    - <a href="https://www.codewars.com/kata/52c31f8e6605bcc646000082/train/java">Dos Suma (Arrays)</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/DosSumas">Solución</a>
    
 + __5Kyu__ :heavy_plus_sign: :eight:
   - <a href="https://www.codewars.com/kata/5868b2de442e3fb2bb000119/train/java">Más cercano y más pequeño</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu5/MasCercanoMasPeque%C3%B1o">Solución</a>
