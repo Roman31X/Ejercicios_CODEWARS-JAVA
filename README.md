@@ -154,10 +154,7 @@ un entorno de codificación estructurado.
 + __5Kyu__ :heavy_plus_sign: :eight:
   - <a href="https://www.codewars.com/kata/5868b2de442e3fb2bb000119/train/java">Más cercano y más pequeño</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu5/MasCercanoMasPeque%C3%B1o">Solución</a>
 
-+ __4Kyu__ :heavy_plus_sign: __32__
-    - <a href="https://www.codewars.com/kata/55983863da40caa2c900004e/train/java">El siguiente número mayor con los mismos dígitos</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu4/NumeroMayorMismosDigitos">Solución</a>
-    - <a href="https://www.codewars.com/kata/51b66044bce5799a7f000003/train/java">Ayudante de número romanos</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu4/AyudanteNumeroRomano">Solución</a>
-
++ <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/ReadmeKyu/Kyu4">__4Kyu__ :heavy_plus_sign: __32__</a>
 + __3Kyu__
 + __2Kyu__
 + __1Kyu : NIVEL DIOS__
