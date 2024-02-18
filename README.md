@@ -60,7 +60,7 @@ un entorno de codificación estructurado.
 <h1>SOLO TU PONES EL LIMITE</h1>
 <p><b>Hay que entrenar - Hay que aprender<br>
 Hay que comer - Hay que descansar<br>
-y tambien hay que jugar</b></p>
+y también hay que jugar</b></p>
 <div>
 <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Entrenamiento.png" width=400 height=400/>
 </div>
