@@ -50,6 +50,7 @@
     - <a href="https://www.codewars.com/kata/555a67db74814aa4ee0001b5/train/java">¿Es parejo?</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/EsParejo">Solución</a>
     - <a href="https://www.codewars.com/kata/55ecd718f46fba02e5000029/train/java">¿Qué hay entre?</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/QueHayEntre">Solución</a>
     - <a href="https://www.codewars.com/kata/577a98a6ae28071780000989/train/java">Encontrar valores máximos y mínimos de una lista</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/ValoresMaximosMinimos">Solución</a>
+    - <a href="https://www.codewars.com/kata/5865918c6b569962950002a1/train/java">Desafío All Star Code #18</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/DesafioAllStarCode">Solución</a>
     
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu8.gif"/>
