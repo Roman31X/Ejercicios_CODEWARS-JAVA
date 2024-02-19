@@ -28,6 +28,7 @@
     - <a href="https://www.codewars.com/kata/589b1c15081bcbfe6700017a/train/java">Serie de escuelas de manejo N° 2</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/EscuelaDeManejo">Solución</a>
     - <a href="https://www.codewars.com/kata/57d2807295497e652b000139/train/java">Promedios Números</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/PromedioDeNumeros">Solución</a>
     - <a href="https://www.codewars.com/kata/5a0d38c9697598b67a000041/train/java">¡Elimina a los intrusos! Manipulación de bits</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/EliminaIntrusosBits">Solución</a>
+    - <a href="https://www.codewars.com/kata/56747fd5cb988479af000028/train/java">Consigue el personaje del medio</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/ConsiguePersonajeMedio">Solución</a>
 
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu7.gif"/>
