@@ -26,6 +26,7 @@
     - <a href="https://www.codewars.com/kata/52c31f8e6605bcc646000082/train/java">Dos Suma (Arrays)</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/DosSumas">Solución</a>
     - <a href="https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/java">Palabras con mayor puntuación</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/PalabraMayorPuntuacion">Solución</a>
     - <a href="https://www.codewars.com/kata/536950ffc8a5ca9982001371/train/java">Rana Saltante</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/RanaSaltando">Solución</a>
+      - <a href="https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/train/java">Contando Duplicados</a> - <a href="">Solución</a>
 
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu6.gif"/>
