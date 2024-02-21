@@ -31,7 +31,7 @@
     - <a href="https://www.codewars.com/kata/56747fd5cb988479af000028/train/java">Consigue el personaje del medio</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/ConsiguePersonajeMedio">Solución</a>
     - <a href="https://www.codewars.com/kata/5390bac347d09b7da40006f6/train/java">Cuerdas de carcasa Jaden</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CuerdasCarcasaJaden">Solución</a>
     - <a href="https://www.codewars.com/kata/55908aad6620c066bc00002a/train/java">Ex y Oh</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/TuExyOh">Solución</a>
-    - <a href="https://www.codewars.com/kata/586f6741c66d18c22800010a/train/java">Suma de una Secuencia</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/SumaDeUnaSeuencia">Solución</a>
+    - <a href="https://www.codewars.com/kata/586f6741c66d18c22800010a/train/java">Suma de una Secuencia</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/SumaDeUnaSecuencia">Solución</a>
 
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu7.gif"/>

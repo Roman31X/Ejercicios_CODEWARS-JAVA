@@ -1,8 +1,8 @@
-package com.Ejercicio.Kyu7.SumaDeUnaSeuencia;
+package com.Ejercicio.Kyu7.SumaDeUnaSecuencia;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import static com.Ejercicio.Kyu7.SumaDeUnaSeuencia.CalcularSumaSecuencia.sequenceSum;
+import static com.Ejercicio.Kyu7.SumaDeUnaSecuencia.CalcularSumaSecuencia.sequenceSum;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class TestCalcularSumaSecuencia {
