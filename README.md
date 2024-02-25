@@ -66,3 +66,6 @@ y también hay que jugar</b></p>
 <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Entrenamiento.png" width=400 height=400/>
 </div>
 </div>
+
+
+
