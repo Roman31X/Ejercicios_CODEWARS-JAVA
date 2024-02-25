@@ -1,3 +1,4 @@
+![](https://www.codewars.com/users/Escorpio31X/badges/large)<br><br>
 # EJERCICIOS CODEWARS
 En este repositorio encontrara ejercicios seleccionados de la plataforma web de <a href="https://www.codewars.com">__CODEWARS__</a> 
 pagina que soporta multiples lenguajes de programación. Ofrece una variedad de desafíos para desarrolladores de todos los niveles. 
