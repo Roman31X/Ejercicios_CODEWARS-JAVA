@@ -29,6 +29,7 @@
     - <a href="https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/train/java">Contando Duplicados</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/ContadoDuplicados">Solución</a>
     - <a href="https://www.codewars.com/kata/554ca54ffa7d91b236000023/train/java">Eliminar apariciones de un elemento si ocurre más de n veces</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/EliminarOcurrenciasElementoNVeces">Solución</a>
     - <a href="https://www.codewars.com/kata/5503013e34137eeeaa001648/train/java">Dame un Diamante</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/DameUnDiamante">Solución</a>
+    - <a href="https://www.codewars.com/kata/55fd4919ce2a1d7c0d0000f3/train/java">Dos sumas cúbicas</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/DosSumasCubicas">Solución</a>
 
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu6.gif"/>
