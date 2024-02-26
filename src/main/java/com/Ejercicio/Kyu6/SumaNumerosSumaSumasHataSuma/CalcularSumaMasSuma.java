@@ -18,10 +18,7 @@ public class CalcularSumaMasSuma {
 
         // Calcular S(n) = n * (n + 1) / 2
         BigInteger sumN = nBigInteger.multiply(nBigInteger.add(BigInteger.ONE)).divide(BigInteger.valueOf(2));
-
-        // Simplificar la expresión final sin necesidad de calcular S(n) dos veces
         BigInteger result = sumN.multiply(sumN.add(BigInteger.ONE)).divide(BigInteger.valueOf(4));
-        //result = result.add(BigInteger.ONE).multiply(result).divide(BigInteger.valueOf(2));
 
         return result;
     }
