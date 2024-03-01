@@ -53,6 +53,7 @@
     - <a href="https://www.codewars.com/kata/5865918c6b569962950002a1/train/java">Desafío All Star Code #18</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/DesafioAllStarCode">Solución</a>
     - <a href="https://www.codewars.com/kata/57eae20f5500ad98e50002c5/train/java">Eliminar espacios de cadena (String)</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/EliminarEspaciosCadena">Solución</a>
     - <a href="https://www.codewars.com/kata/56b29582461215098d00000f/train/java">Problema con las tuberías de Lario y Muigi</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/ProblemaTuberiasLariMuigi">Solución</a>
+    - <a href="https://www.codewars.com/kata/57a0885cbb9944e24c00008e/train/java">QuitarSignos de exclamación</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/QuitarSignosExclamación">Solución</a>
     
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu8.gif"/>
