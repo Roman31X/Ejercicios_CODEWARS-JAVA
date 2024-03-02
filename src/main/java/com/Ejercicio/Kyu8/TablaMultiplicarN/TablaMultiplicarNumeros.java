@@ -8,5 +8,22 @@ public class TablaMultiplicarNumeros {
             cadena+=i+" * "+num+" = "+multi+"\n";
         }
         return cadena;
+
+        //OtraForma
+        /*
+        * StringBuilder table = new StringBuilder();
+
+        for (int i = 1; i <= 10; i++) {
+            int result = i * number;
+            table.append(i).append(" * ").append(number).append(" = ").append(result);
+
+            // Agregar nueva línea entre las filas, excepto para la última fila
+            if (i < 10) {
+                table.append("\n");
+            }
+        }
+
+        return table.toString();
+        * */
     }
 }
