@@ -5,7 +5,11 @@ public class TablaMultiplicarNumeros {
         String cadena = "";
         for (int i = 1; i <= 10; i++) {
             int multi = i * num;
-            cadena+=i+" * "+num+" = "+multi+"\n";
+            cadena+=i+" * "+num+" = "+multi;
+            if(i < 10){
+                cadena+="\n";
+            }
+
         }
         return cadena;
 
