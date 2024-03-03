@@ -55,6 +55,7 @@
     - <a href="https://www.codewars.com/kata/56b29582461215098d00000f/train/java">Problema con las tuberías de Lario y Muigi</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/ProblemaTuberiasLariMuigi">Solución</a>
     - <a href="https://www.codewars.com/kata/57a0885cbb9944e24c00008e/train/java">Quitar Signos de exclamación</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/QuitarSignosExclamación">Solución</a>
     - <a href="https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce/train/java">Tabla de Multiplicar para números</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/TablaMultiplicarN">Solución</a>
+    - <a href="https://www.codewars.com/kata/53dc23c68a0c93699800041d/train/java">Frase Aplastante</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/FraseAplastante">Solución</a>
     
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu8.gif"/>
