@@ -56,6 +56,7 @@
     - <a href="https://www.codewars.com/kata/57a0885cbb9944e24c00008e/train/java">Quitar Signos de exclamación</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/QuitarSignosExclamación">Solución</a>
     - <a href="https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce/train/java">Tabla de Multiplicar para números</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/TablaMultiplicarN">Solución</a>
     - <a href="https://www.codewars.com/kata/53dc23c68a0c93699800041d/train/java">Frase Aplastante</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/FraseAplastante">Solución</a>
+    - <a href="https://www.codewars.com/kata/551b4501ac0447318f0009cd/train/java">Convertir un Boolean en un String</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/ConvertirBooleanString">Solución</a>
     
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu8.gif"/>
