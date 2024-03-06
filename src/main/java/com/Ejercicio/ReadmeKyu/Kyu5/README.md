@@ -3,6 +3,7 @@
     - <a href="https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c/train/java">Suma máxima de subarreglos (Arrays)</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu5/SumaMaximaSubarreglo">Solución</a>
     - <a href="https://www.codewars.com/kata/54a91a4883a7de5d7800009c/train/java">Incrementador de String</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu5/IncrementadorCadenas">Solución</a>
     - <a href="https://www.codewars.com/kata/52f787eb172a8b4ae1000a34/train/java">Números de ceros finales de N!</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu5/NumeroCerosFinales">Solución</a>
+    - <a href="https://www.codewars.com/kata/55aa075506463dac6600010d/train/java">Enteros: Recreación Uno</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu5/EnterosRecreacionUno">Solución</a>
 
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu5.gif"/>
