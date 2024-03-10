@@ -9,5 +9,12 @@ public class TestConnjuntoaArboles {
     public static void main(String[] args) {
         System.out.println("Test Diversion con árboles: conjunto a árboles");
     }
-
+    @Test
+    public void emptyArray() {
+        TreeNode expected = null;
+        assertThat(arrayToTree(arrayFrom()), is(expected));
+    }
+    private int[] arrayFrom(int... values) {
+        return values;
+    }
 }
