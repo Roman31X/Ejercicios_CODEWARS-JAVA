@@ -1,7 +1,7 @@
 package com.Ejercicio.Kyu6.Palabra10nAbreviatura;
 
 public class AbreviaturaPalabra10N {
-    public String abbreviate(String string) {
+    public static String abbreviate(String string) {
         StringBuilder result = new StringBuilder();
         StringBuilder word = new StringBuilder();
         boolean inWord = false;
