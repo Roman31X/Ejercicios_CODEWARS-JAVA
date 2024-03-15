@@ -5,7 +5,7 @@ import static org.junit.Assert.assertEquals;
 
 public class TestCalaseHexagonal {
     public static void main(String[] args) {
-        System.out.println("Test de Convertido a Hexadecimal");
+        System.out.println("Test de Convertido a Hexagonal");
     }
 
     @Test

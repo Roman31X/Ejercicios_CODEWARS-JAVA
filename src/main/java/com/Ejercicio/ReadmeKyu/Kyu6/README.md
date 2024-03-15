@@ -32,6 +32,7 @@
     - <a href="https://www.codewars.com/kata/55fd4919ce2a1d7c0d0000f3/train/java">Dos sumas cúbicas</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/DosSumasCubicas">Solución</a>
     - <a href="https://www.codewars.com/kata/545cedaa9943f7fe7b000048/train/java">Detectar Pangrama</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/DetectarPangrama">Solución</a>
     - <a href="https://www.codewars.com/kata/5592e3bd57b64d00f3000047/train/java">Construye un montón de cubos</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/ContruyeMontonCubos">Solución</a>
+    - <a href="https://www.codewars.com/kata/5483366098aa442def0009af/train/java">Clase Hexagonal</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/ClaseHexagonal">Solución</a>
 
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu6.gif"/>
