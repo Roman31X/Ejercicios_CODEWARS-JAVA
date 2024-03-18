@@ -4,22 +4,13 @@ import java.util.*;
 
 public class ColaDelSupermercado {
     public static int solveSuperMarketQueue(int[] customers, int n){
-        int time = 0;
-        if(n == 1){
-            for (int i = 0; i < customers.length; i++) {
-                time+=customers[i];
-            }
-        }else{
-            int mayor = 0, contador = 0;
-            for (int i = 0; i < customers.length; i++) {
-                if(mayor < customers[i]){
-                    mayor = customers[i];
-                }else{
-                    contador+=customers[i];
-                }
-            }
-            System.out.println(mayor+" - "+contador);
+        int[] queues = new int[n];
+
+        for (int i = 0; i < customers.length; i++) {
+            queues[0] += customers[i]; // Inicialmente, asigna cada cliente a la primera caja
+            Arrays.sort(queues); // Ordena las colas para que la caja más ocupada esté al final
         }
-        return time;
+
+        return queues[n - 1];
     }
 }
