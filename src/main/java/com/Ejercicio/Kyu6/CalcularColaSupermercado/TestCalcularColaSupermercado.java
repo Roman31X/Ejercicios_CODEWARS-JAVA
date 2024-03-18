@@ -1,5 +1,7 @@
 package com.Ejercicio.Kyu6.CalcularColaSupermercado;
 
+import org.junit.Test;
+import static org.junit.Assert.assertEquals;
 import static com.Ejercicio.Kyu6.CalcularColaSupermercado.ColaDelSupermercado.solveSuperMarketQueue;
 
 public class TestCalcularColaSupermercado {
@@ -13,4 +15,18 @@ public class TestCalcularColaSupermercado {
                 solveSuperMarketQueue(cola2, 2));
     }
 
+    @Test
+    public void testNormalCondition() {
+        assertEquals(9, solveSuperMarketQueue(new int[] { 2, 2, 3, 3, 4, 4 }, 2));
+    }
+
+    @Test
+    public void testEmptyArray() {
+        assertEquals(0,solveSuperMarketQueue(new int[] {}, 1));
+    }
+
+    @Test
+    public void testSingleTillManyCustomers() {
+        assertEquals(15, solveSuperMarketQueue(new int[] { 1, 2, 3, 4, 5 }, 1));
+    }
 }
