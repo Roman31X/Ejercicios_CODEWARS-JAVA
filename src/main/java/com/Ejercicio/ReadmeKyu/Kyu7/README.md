@@ -36,6 +36,7 @@
     - <a href="https://www.codewars.com/kata/5259b20d6021e9e14c0010d4/train/java">Palabras inversas</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/PalabraInversa">Solución</a>
     - <a href="https://www.codewars.com/kata/56b7f2f3f18876033f000307/train/java">¿Están los números en orden?</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/DetectarNumerosEnOrden">Solución</a>
     - <a href="https://www.codewars.com/kata/57f609022f4d534f05000024/train/java">Encuentra el número perdido</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/NumeroPerdido">Solución</a>
+    - <a href="https://www.codewars.com/kata/577bd8d4ae2807c64b00045b/train/java">Dos luchadores, un ganador</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/DosLuchadoresUnGanador">Solución</a>
 
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu7.gif"/>
