@@ -8,6 +8,7 @@
     - <a href="https://www.codewars.com/kata/52685f7382004e774f0001f7/train/java">Tiempo legible por humanos</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu5/TiempoLegibleporHumano">Solución</a>
     - <a href="https://www.codewars.com/kata/550f22f4d758534c1100025a/train/java">Reducción de direcciones</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu5/ReduccionDirecciones">Solución</a>
     - <a href="https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/train/java">Primer personaje no repetitivo</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu5/PrimerPersonajeNoRepetitivo">Solución</a>
+    - <a href="https://www.codewars.com/kata/54d512e62a5e54c96200019e/train/java">Primo en Números</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu5/PrimosEnNumeros">Solución</a>
 
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu5.gif"/>
