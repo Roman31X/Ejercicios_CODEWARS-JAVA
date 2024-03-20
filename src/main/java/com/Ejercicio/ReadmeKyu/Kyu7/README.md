@@ -38,6 +38,7 @@
     - <a href="https://www.codewars.com/kata/57f609022f4d534f05000024/train/java">Encuentra el número perdido</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/NumeroPerdido">Solución</a>
     - <a href="https://www.codewars.com/kata/577bd8d4ae2807c64b00045b/train/java">Dos luchadores, un ganador</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/DosLuchadoresUnGanador">Solución</a>
     - <a href="https://www.codewars.com/kata/56576f82ab83ee8268000059/train/java">Quedarse sin espacio</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/QuedarseSinEspacio">Solución</a>
+    - <a href="https://www.codewars.com/kata/57cc981a58da9e302a000214/train/java">¿Suficientemente pequeño? - Principiante</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/SuficientePequeño">Solución</a>
 
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu7.gif"/>
