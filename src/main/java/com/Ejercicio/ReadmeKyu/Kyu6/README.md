@@ -36,6 +36,7 @@
     - <a href="https://www.codewars.com/kata/5375f921003bf62192000746/train/java">Palabra a10n (Abreviatura)</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/Palabra10nAbreviatura">Solución</a>
     - <a href="https://www.codewars.com/kata/54da5a58ea159efa38000836/train/java">Encuentre el Int Impart</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/EncuentraIntImpar">Solución</a>
     - <a href="https://www.codewars.com/kata/57b06f90e298a7b53d000a86/train/java">La cola del supermercado</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/CalcularColaSupermercado">Solución</a>
+    - <a href="https://www.codewars.com/kata/5544c7a5cb454edb3c000047/train/java">Bolas rebotando</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/BolasRebotando">Solución</a>
 
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu6.gif"/>
