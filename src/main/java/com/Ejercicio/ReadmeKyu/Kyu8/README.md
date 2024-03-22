@@ -59,6 +59,7 @@
     - <a href="https://www.codewars.com/kata/551b4501ac0447318f0009cd/train/java">Convertir un Boolean en un String</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/ConvertirBooleanString">Solución</a>
     - <a href="https://www.codewars.com/kata/5625618b1fe21ab49f00001f/train/java">Grasshopper - Depurar decir Hola</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/DepurarDecirHola">Solución</a>
     - <a href="https://www.codewars.com/kata/5769b3802ae6f8e4890009d2/train/java">Eliminando Elemento</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/EliminandoElementos">Solución</a>
+    - <a href="https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e/train/java">Suma de diferencias en matriz</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/SumaDiferenciaMatriz">Solución</a>
     
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu8.gif"/>
