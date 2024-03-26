@@ -40,6 +40,7 @@
     - <a href="https://www.codewars.com/kata/56b5afb4ed1f6d5fb0000991/train/java">¿Invertir o rotar?</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/InvertirRotar">Solución</a>
     - <a href="https://www.codewars.com/kata/52fb87703c1351ebd200081f/train/java">¿Qué siglo es?</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/QueSigloEs">Solución</a>
     - <a href="https://www.codewars.com/kata/55e2adece53b4cdcb900006c/train/java">Carreras de tortugas</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/CarreraTortugas">Solución</a>
+    - <a href="https://www.codewars.com/kata/64b6722493f1050058dc3f98/train/java">Evaluar el grupo de paréntesis</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/EvaluarGrupoParentesis">Solución</a>
 
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu6.gif"/>
