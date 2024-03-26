@@ -40,6 +40,7 @@
     - <a href="https://www.codewars.com/kata/56576f82ab83ee8268000059/train/java">Quedarse sin espacio</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/QuedarseSinEspacio">Solución</a>
     - <a href="https://www.codewars.com/kata/57cc981a58da9e302a000214/train/java">¿Suficientemente pequeño? - Principiante</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/SuficientePequeño">Solución</a>
     - <a href="https://www.codewars.com/kata/55d1d6d5955ec6365400006d/train/java">Redondear al siguiente múltiplo de 5</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/RedondearMultiploDe5">Solución</a>
+    - <a href="https://www.codewars.com/kata/58b8c94b7df3f116eb00005b/train/java">Diversión simple #176: Letra inversa</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/DiversionLetraInversa">Solución</a>
 
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu7.gif"/>
