@@ -43,6 +43,7 @@
     - <a href="https://www.codewars.com/kata/64b6722493f1050058dc3f98/train/java">Evaluar el grupo de paréntesis</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/EvaluarGrupoParentesis">Solución</a>
     - <a href="https://www.codewars.com/kata/556deca17c58da83c00002db/train/java">Secuencia Tribonacci</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/SecuenciaTribonacci">Solución</a>
     - <a href="https://www.codewars.com/kata/5552101f47fc5178b1000050/train/java">Jugando con Dígitos</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/JugandoConDigitos">Solución</a>
+    - <a href="https://www.codewars.com/kata/5899a4b1a6648906fe000113/train/java">Sigue a ese espía</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/SigueEseEspia">Solución</a>
 
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu6.gif"/>
