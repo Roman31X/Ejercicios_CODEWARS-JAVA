@@ -11,6 +11,7 @@
     - <a href="https://www.codewars.com/kata/54d512e62a5e54c96200019e/train/java">Primo en Números</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu5/PrimosEnNumeros">Solución</a>
     - <a href="https://www.codewars.com/kata/5541f58a944b85ce6d00006a/train/java">Producto de números Fib consecutivos</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu5/ProductoNumeroConsecutivo">Solución</a>
     - <a href="https://www.codewars.com/kata/526156943dfe7ce06200063e/train/java">Mi intérprete de código más pequeño (También conocido como Brainf**k)</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu5/InterpreteCodigoPequeño">Solución</a>
+    - <a href="https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa/train/java">Mejor Viaje</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu5/MejorViaje">Solución</a>
 
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu5.gif"/>
