@@ -45,6 +45,7 @@
     - <a href="https://www.codewars.com/kata/5552101f47fc5178b1000050/train/java">Jugando con Dígitos</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/JugandoConDigitos">Solución</a>
     - <a href="https://www.codewars.com/kata/5899a4b1a6648906fe000113/train/java">Sigue a ese espía</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/SigueEseEspia">Solución</a>
     - <a href="https://www.codewars.com/kata/595fa01cde9d341e8c000045/train/java">Un poco de diversión con operaciones agregadas (Part 1)</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/UnPocoDiversionOperaciones">Solución</a>
+    - <a href="https://www.codewars.com/kata/515f51d438015969f7000013/train/java">Matriz piramidal</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/MatrizPiramidal">Solución</a>
 
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu6.gif"/>
