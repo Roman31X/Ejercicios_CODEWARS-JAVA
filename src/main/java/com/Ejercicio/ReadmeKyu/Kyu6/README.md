@@ -49,6 +49,7 @@
     - <a href="https://www.codewars.com/kata/564057bc348c7200bd0000ff/train/java">Una regla de divisibilidad por 13</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/ReglaDivisibilidad13">Solución</a>
     - <a href="https://www.codewars.com/kata/58f5c63f1e26ecda7e000029/train/java">Ola Mexicana</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/OlaMexico">Solución</a>
     - <a href="https://www.codewars.com/kata/59df2f8f08c6cec835000012/train/java">Reunión</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/Reunion">Solución</a>
+    - <a href="https://www.codewars.com/kata/5842df8ccbd22792a4000245/train/java">Escribir números en forma ampliada</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/EscribirNumerosAmplia">Solución</a>
    
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu6.gif"/>
