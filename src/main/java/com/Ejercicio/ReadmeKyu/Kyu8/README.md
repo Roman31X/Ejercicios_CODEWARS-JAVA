@@ -62,6 +62,7 @@
     - <a href="https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e/train/java">Suma de diferencias en matriz</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/SumaDiferenciaMatriz">Solución</a>
     - <a href="https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89/train/java">!La rana de boca ancha!</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/SumaDiferenciaMatriz">Solución</a>
     - <a href="https://www.codewars.com/kata/59ca8246d751df55cc00014c/train/java">¿Sobrevivirá nuestro Héroe?</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/Sobevivira">Solución</a>
+    - <a href="https://www.codewars.com/kata/59dd3ccdded72fc78b000b25/train/java">Regresar el día</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/RegresarElDia">Solución</a>
     
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu8.gif"/>
