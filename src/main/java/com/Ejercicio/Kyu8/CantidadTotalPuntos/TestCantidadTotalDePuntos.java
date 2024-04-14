@@ -1,10 +1,8 @@
 package com.Ejercicio.Kyu8.CantidadTotalPuntos;
 
 import org.junit.Test;
-
 import static com.Ejercicio.Kyu8.CantidadTotalPuntos.ContadorPuntosArrays.points;
 import static org.junit.Assert.assertEquals;
-import org.junit.runners.JUnit4;
 
 public class TestCantidadTotalDePuntos {
     public static void main(String[] args) {
