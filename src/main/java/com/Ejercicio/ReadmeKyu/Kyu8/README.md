@@ -67,6 +67,7 @@
     - <a href="https://www.codewars.com/kata/570e8ec4127ad143660001fd/train/java">Nombre en Cartelera</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/NombreEnCartelera">Solución</a>
     - <a href="https://www.codewars.com/kata/57202aefe8d6c514300001fd/train/java">Entrenamiento Js#7: if..else y operadores ternarios</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/EntrenamientoIfElse">Solución</a>
     - <a href="https://www.codewars.com/kata/5bb904724c47249b10000131/train/java">Cantidad total de puntos</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/CantidadTotalPuntos">Solución</a>
+    - <a href="https://www.codewars.com/kata/58cb43f4256836ed95000f97/train/java">Diferencia de volúmenes de cuboides</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/DiferenciaVolumenesCuboides">Solución</a>
     
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu8.gif"/>
