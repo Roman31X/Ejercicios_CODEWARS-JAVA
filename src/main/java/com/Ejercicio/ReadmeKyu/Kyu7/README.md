@@ -45,6 +45,7 @@
     - <a href="https://www.codewars.com/kata/563cf89eb4747c5fb100001b/train/java">Quitar el mínimo</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/QuitarElMinimo">Solución</a>
     - <a href="https://www.codewars.com/kata/57ee99a16c8df7b02d00045f/train/java">Aplanar y ordenar una matriz</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/OrdenarAplaraMtriz">Solución</a>
     - <a href="https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9/train/java">Testing 1 - 2 - 3</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/Prueba123">Solución</a>
+    - <a href="https://www.codewars.com/kata/59cfc000aeb2844d16000075/train/java">Capitalización Alternativa</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CapitalizacionAlternativa">Solución</a>
 
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu7.gif"/>
