@@ -1,6 +1,9 @@
 package com.Ejercicio.Kyu7.Factorial;
 
 public class CalcularFactorial {
+    public CalcularFactorial() {
+    }
+
     public int factorial(int n) {
         if (n < 0 || n > 12) {
             throw new IllegalArgumentException("Argument out of range");
