@@ -47,6 +47,7 @@
     - <a href="https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9/train/java">Testing 1 - 2 - 3</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/Prueba123">Solución</a>
     - <a href="https://www.codewars.com/kata/59cfc000aeb2844d16000075/train/java">Capitalización Alternativa</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CapitalizacionAlternativa">Solución</a>
     - <a href="https://www.codewars.com/kata/5aff237c578a14752d0035ae/train/java">¡Predice tu edad!</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/CapitalizacionAlternativa">Solución</a>
+    - <a href="https://www.codewars.com/kata/54ff0d1f355cfd20e60001fc/train/java">Factorial</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/Factorial">Solución</a>
 
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu7.gif"/>
