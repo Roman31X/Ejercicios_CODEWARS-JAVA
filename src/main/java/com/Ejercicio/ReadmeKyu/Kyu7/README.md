@@ -51,6 +51,7 @@
     - <a href="https://www.codewars.com/kata/57ed30dde7728215300005fa/train/java">Obstáculo en el camino</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/ObstaculosEnCamino">Solución</a>
     - <a href="https://www.codewars.com/kata/555eded1ad94b00403000071/train/java">Suma del primer enésimo término de la Serie</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/SumaEnesimaTerminoSerie">Solución</a>
     - <a href="https://www.codewars.com/kata/56f3a1e899b386da78000732/train/java">Partes de una lista</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/PartesDeUnaLista">Solución</a>
+    - <a href="https://www.codewars.com/kata/58daa7617332e59593000006/train/java">La mayoría de los dígitos</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/MayoriaDigitos">Solución</a>
 
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu7.gif"/>
