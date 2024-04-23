@@ -71,6 +71,7 @@
     - <a href="https://www.codewars.com/kata/57e921d8b36340f1fd000059/train/java">Holiday VI - Pontón Tiburón</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/PontonTiburon">Solución</a>
     - <a href="https://www.codewars.com/kata/525c1a07bb6dda6944000031/train/java">Giro de ejemplo de kata</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/GiraEjemploKata">Solución</a>
     - <a href="https://www.codewars.com/kata/55f73f66d160f1f1db000059/train/java">Saltamontes - Combina cuerdas</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/CombinaCuerdas">Solución</a>
+    - <a href="https://www.codewars.com/kata/58f8a3a27a5c28d92e000144/train/java">Encuentra el primer número no consecutivo</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/EnceuntraPrimerNumeroConsecutivo">Solución</a>
     
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu8.gif"/>
