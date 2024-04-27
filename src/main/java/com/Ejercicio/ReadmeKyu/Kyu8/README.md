@@ -73,6 +73,7 @@
     - <a href="https://www.codewars.com/kata/55f73f66d160f1f1db000059/train/java">Saltamontes - Combina cuerdas</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/CombinaCuerdas">Solución</a>
     - <a href="https://www.codewars.com/kata/58f8a3a27a5c28d92e000144/train/java">Encuentra el primer número no consecutivo</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/EnceuntraPrimerNumeroConsecutivo">Solución</a>
     - <a href="https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1/train/java">Analizar buen int del problema de caracteres</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/AnalizarProblemaCaracterEdad">Solución</a>
+    - <a href="https://www.codewars.com/kata/56598d8076ee7a0759000087/train/java">Calculadora de propinas</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/CalculadoraPropinas">Solución</a>
     
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu8.gif"/>
