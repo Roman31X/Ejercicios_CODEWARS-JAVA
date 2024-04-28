@@ -75,6 +75,7 @@
     - <a href="https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1/train/java">Analizar buen int del problema de caracteres</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/AnalizarProblemaCaracterEdad">Solución</a>
     - <a href="https://www.codewars.com/kata/56598d8076ee7a0759000087/train/java">Calculadora de propinas</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/CalculadoraPropinas">Solución</a>
     - <a href="https://www.codewars.com/kata/568d0dd208ee69389d000016/train/java">Transporte en vacaciones</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/TransporteVacaciones">Solución</a>
+    - <a href="https://www.codewars.com/kata/55685cd7ad70877c23000102/train/java">Devolución Negativa</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/RetornarNegativo">Solución</a>
     
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu8.gif"/>
