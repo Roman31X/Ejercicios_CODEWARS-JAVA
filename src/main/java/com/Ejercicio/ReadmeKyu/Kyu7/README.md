@@ -53,6 +53,7 @@
     - <a href="https://www.codewars.com/kata/56f3a1e899b386da78000732/train/java">Partes de una lista</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/PartesDeUnaLista">Solución</a>
     - <a href="https://www.codewars.com/kata/58daa7617332e59593000006/train/java">La mayoría de los dígitos</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/MayoriaDigitos">Solución</a>
     - <a href="https://www.codewars.com/kata/534d0a229345375d520006a0/train/java">Poder de dos</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/PoderDeDos">Solución</a>
+    - <a href="https://www.codewars.com/kata/563f037412e5ada593000114/train/java">Dinero Dinero Dinero</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/DineroDinero">Solución</a>
 
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu7.gif"/>
