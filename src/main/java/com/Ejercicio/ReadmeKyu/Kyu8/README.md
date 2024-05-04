@@ -79,6 +79,7 @@
     - <a href="https://www.codewars.com/kata/55ca77fa094a2af31f00002a/train/java">Saltamontes - Goles de Messi</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/GolesMessi">Solución</a>
     - <a href="https://www.codewars.com/kata/58ca658cc0d6401f2700045f/train/java">Encontrar múltiplos de un número</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/EncontrarMultiplosNumero">Solución</a>
     - <a href="https://www.codewars.com/kata/5302d846be2a9189af0001e4/train/java">Bienvenido a la ciudad</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/BienvenidoACiudad">Solución</a>
+    - <a href="https://www.codewars.com/kata/54fe05c4762e2e3047000add/train/java">POO: Programación orientada a objetos</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/EjercicioPOO">Solución</a>
     
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu8.gif"/>
