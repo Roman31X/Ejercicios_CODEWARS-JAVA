@@ -55,6 +55,7 @@
     - <a href="https://www.codewars.com/kata/534d0a229345375d520006a0/train/java">Poder de dos</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/PoderDeDos">Solución</a>
     - <a href="https://www.codewars.com/kata/563f037412e5ada593000114/train/java">Dinero Dinero Dinero</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/DineroDinero">Solución</a>
     - <a href="https://www.codewars.com/kata/5506b230a11c0aeab3000c1f/train/java">Evaporador de desodorante</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/EvaporadorDesodorante">Solución</a>
+    - <a href="https://www.codewars.com/kata/56269eb78ad2e4ced1000013/train/java">¡Encuentra el siguiente cuadrado perfecto!</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/EncuentraCuadradoPerfecto">Solución</a>
 
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu7.gif"/>
