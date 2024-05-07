@@ -82,6 +82,7 @@
     - <a href="https://www.codewars.com/kata/54fe05c4762e2e3047000add/train/java">POO: Programación orientada a objetos</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/EjercicioPOO">Solución</a>
     - <a href="https://www.codewars.com/kata/570a6a46455d08ff8d001002/train/java">No hay ceros para los héroes</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/NoHayCerosParaHeroes">Solución</a>
     - <a href="https://www.codewars.com/kata/57cfdf34902f6ba3d300001e/train/java">Ordenar y destacar</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/OrdenarYDestacar">Solución</a>
+    - <a href="https://www.codewars.com/kata/52adc142b2651f25a8000643/train/java">Autenticación de trineo</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/AutenticacionTrineo">Solución</a>
     
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu8.gif"/>
