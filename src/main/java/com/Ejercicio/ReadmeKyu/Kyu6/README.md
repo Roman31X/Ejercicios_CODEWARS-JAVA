@@ -54,6 +54,7 @@
     - <a href="https://www.codewars.com/kata/54dc6f5a224c26032800005c/train/java">¡Ayuda al librero!</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/AyudaLibrero">Solución</a>
     - <a href="https://www.codewars.com/kata/5d98b6b38b0f6c001a461198/train/java">Binarios</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/Binarios">Solución</a>
     - <a href="https://www.codewars.com/kata/5d41e16d8bad42002208fe1a/train/java">Más ceros que unos</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/MasCerosQueUnos">Solución</a>
+    - <a href="https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/train/java">Maldito persistente.</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/MalditoPersistente">Solución</a>
    
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu6.gif"/>
