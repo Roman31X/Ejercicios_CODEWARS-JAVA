@@ -56,6 +56,7 @@
     - <a href="https://www.codewars.com/kata/5d41e16d8bad42002208fe1a/train/java">Más ceros que unos</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/MasCerosQueUnos">Solución</a>
     - <a href="https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/train/java">Maldito persistente</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/MalditoPersistente">Solución</a>
     - <a href="https://www.codewars.com/kata/57814d79a56c88e3e0000786/train/java">Cifrado simple n.º 1: división alterna</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/CifradoSimple">Solución</a>
+    - <a href="https://www.codewars.com/kata/5848565e273af816fb000449/train/java">¡Cifre esto!</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu6/CifrarEsto">Solución</a>
    
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu6.gif"/>
