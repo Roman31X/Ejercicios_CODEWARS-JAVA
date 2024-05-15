@@ -84,6 +84,7 @@
     - <a href="https://www.codewars.com/kata/57cfdf34902f6ba3d300001e/train/java">Ordenar y destacar</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/OrdenarYDestacar">Solución</a>
     - <a href="https://www.codewars.com/kata/52adc142b2651f25a8000643/train/java">Autenticación de trineo</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/AutenticacionTrineo">Solución</a>
     - <a href="https://www.codewars.com/kata/57126304cdbf63c6770012bd/train/java">¿Es un número?</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/EsUnNumero">Solución</a>
+    - <a href="https://www.codewars.com/kata/55d24f55d7dd296eb9000030/train/java">Saltamontes - Suma</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu8/SaltamontesSuma">Solución</a>
     
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu8.gif"/>
