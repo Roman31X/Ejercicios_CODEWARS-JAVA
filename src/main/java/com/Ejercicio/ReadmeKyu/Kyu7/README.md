@@ -61,6 +61,7 @@
     - <a href="https://www.codewars.com/kata/52fba66badcd10859f00097e/train/java">Trolls desvocacionales</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/TrollsDesvocacionales">Solución</a>
     - <a href="https://www.codewars.com/kata/55b051fac50a3292a9000025/train/java">Filtrar el número</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/FiltrarElNumero">Solución</a>
     - <a href="https://www.codewars.com/kata/5b180e9fedaa564a7000009a/train/java">Arreglar caso de cuerda</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/ArreglarCasoDeCuerda">Solución</a>
+    - <a href="https://www.codewars.com/kata/56e9e4f516bcaa8d4f001763/train/java">Suma de números del 0 al N</a> - <a href="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/tree/main/src/main/java/com/Ejercicio/Kyu7/SumaNumerosde0aN">Solución</a>
 
 <div align="center">
     <img src="https://github.com/Roman31X/Ejercicios_CODEWARS-JAVA/blob/main/src/main/resources/Readme_Imagenes/Kyu7.gif"/>
